@@ -6,7 +6,7 @@ desarrollar soluciones innovadoras y eficientes que impulsen los objetivos
 de la empresa, siempre en un entorno de colaboración y trabajo en equipo.
 
 ## Proyectos personales 💼
-
+# TURISMO & PLANNING
 <!--
 **SergioR29/SergioR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
