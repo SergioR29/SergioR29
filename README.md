@@ -1,4 +1,4 @@
-## Sobre mí 👋
+## Sobre mí 👨‍💻
 
 <!--
 **SergioR29/SergioR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
