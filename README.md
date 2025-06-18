@@ -28,7 +28,7 @@ Yo fui colaborador de este proyecto en mis prácticas de DAM. Este proyecto cons
 
 ![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
 
-
+Tiene apartados interesantes como generar documentos PDF, enviar correos a través de un servidor SMTP y exportar datos a CSV.
 <!--
 **SergioR29/SergioR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
