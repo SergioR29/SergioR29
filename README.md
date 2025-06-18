@@ -8,13 +8,15 @@ de la empresa, siempre en un entorno de colaboración y trabajo en equipo.
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis 
 proyectos es mi TFG de DAM y también menciono otro proyecto ya que fui colaborador 
-en él.
+en él en mis prácticas de DAM.
 
 TURISMO & PLANNING 🏨📝
 -
+Este es mi TFG de DAM
 
 AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 -
+Yo fui colaborador de este proyecto en mis prácticas de DAM
 <!--
 **SergioR29/SergioR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
