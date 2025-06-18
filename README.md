@@ -21,7 +21,7 @@ Es una app ideal para turistas y personas que quieran organizar su día a día c
 
 AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 -
-Yo fui colaborador de este proyecto en mis prácticas de DAM
+Yo fui colaborador de este proyecto en mis prácticas de DAM. Este proyecto consiste en una app de escritorio para optimizar las gestiones internas de este ayuntamiento.
 <!--
 **SergioR29/SergioR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
