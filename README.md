@@ -38,10 +38,11 @@ Mi contribución principal y completa se centró en la Generación de Documentos
 
 Uno de mis compañeros de prácticas es el propietario de este proyecto, ya que lo tuvo como TFG de DAM; él se encargó del envío de correos por SMTP y de la exportación de datos a CSV.
 
-Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.
 
 ![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
 
+
+Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.
 <!--
 **SergioR29/SergioR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
