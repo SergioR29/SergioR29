@@ -6,6 +6,7 @@ desarrollar soluciones innovadoras y eficientes que impulsen los objetivos
 de la empresa, siempre en un entorno de colaboración y trabajo en equipo.
 
 # Proyectos personales 💼
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis 
 proyectos es mi TFG de DAM y también menciono otro proyecto ya que fui colaborador 
 en él en mis prácticas de DAM.
