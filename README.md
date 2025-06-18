@@ -25,7 +25,6 @@ Hay una app auxiliar para manejar la parte turística: Windows (AdminTurismo).
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
 Yo fui colaborador de este proyecto en mis prácticas de DAM. Este proyecto consiste en una app de escritorio para optimizar las gestiones internas de este ayuntamiento.
-
 ![icono](https://github.com/user-attachments/assets/dbef748a-6113-4b79-a217-5c6ce9145ef3)
 
 <!--
