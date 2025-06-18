@@ -8,7 +8,8 @@ de la empresa, siempre en un entorno de colaboración y trabajo en equipo.
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis 
 proyectos es mi TFG de DAM y también menciono otro proyecto ya que fui colaborador 
-en él en mis prácticas de DAM.
+en él en mis prácticas de DAM. Más información de cada proyecto en los repositorios 
+correspondientes de cada proyecto.
   
   
 - **TURISMO & PLANNING** -> AdminTurismo, TurismoPlanning-Desktop, TurismoPlanning-Mobile.  
