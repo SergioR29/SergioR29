@@ -11,6 +11,7 @@ proyectos es mi TFG de DAM y también menciono otro proyecto ya que fui colabora
 en él en mis prácticas de DAM.
 
 **TURISMO & PLANNING** -> AdminTurismo, TurismoPlanning-Desktop, TurismoPlanning-Mobile.
+
 **AYUNTAMIENTO DE MARCHAMALO** -> AyutamientoMarchamalo.
 
 ## TURISMO & PLANNING 🏨📝
@@ -27,7 +28,7 @@ Hay una app auxiliar para manejar la parte turística: Windows (AdminTurismo).
 
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
-Yo fui colaborador de este proyecto en mis prácticas de DAM. Este proyecto consiste en una app de escritorio para optimizar las gestiones internas de este ayuntamiento. Repositorio vinculado a este proyecto: AyuntamientoMarchamalo.
+Yo fui colaborador de este proyecto en mis prácticas de DAM. Este proyecto consiste en una app de escritorio para optimizar las gestiones internas de este ayuntamiento. 
 
 ![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
 
