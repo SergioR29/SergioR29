@@ -30,11 +30,18 @@ Hay una app auxiliar para manejar la parte turística: Windows (**_AdminTurismo_
 
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
-Yo fui colaborador de este proyecto en mis prácticas de DAM. Este proyecto consiste en una app de escritorio para optimizar las gestiones internas de este ayuntamiento. 
+Durante mis prácticas de Desarrollo de Aplicaciones Multiplataforma (DAM), colaboré en el desarrollo de esta aplicación de escritorio, diseñada para optimizar las gestiones internas del ayuntamiento de Marchamalo.
+
+En el marco de esta colaboración, fui el encargado de desarrollar varias partes del software, así como las interfaces de usuario correspondientes a cada módulo que me fue asignado.
+
+Mi contribución principal y completa se centró en la Generación de Documentos PDF. Fui responsable de construir las plantillas HTML necesarias y de implementar la funcionalidad completa para la automatización de la creación de informes y documentos.
+
+Uno de mis compañeros de prácticas es el propietario de este proyecto, ya que lo tuvo como TFG de DAM; él se encargó del envío de correos por SMTP y de la exportación de datos a CSV.
+
+Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.
 
 ![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
 
-Tiene apartados interesantes como generar documentos PDF, enviar correos a través de un servidor SMTP y exportar datos a CSV. Sin duda, con este proyecto se han optimizado grandemente las gestiones internas del ayuntamiento.
 <!--
 **SergioR29/SergioR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
