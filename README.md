@@ -11,11 +11,12 @@ proyectos es mi TFG de DAM y también menciono otro proyecto ya que fui colabora
 en él en mis prácticas de DAM.
 
 - **TURISMO & PLANNING** -> AdminTurismo, TurismoPlanning-Desktop, TurismoPlanning-Mobile.  
-- **AYUNTAMIENTO DE MARCHAMALO** -> AyutamientoMarchamalo.
+- **AYUNTAMIENTO DE MARCHAMALO** -> AyutamientoMarchamalo.  
 
 
 Más información de cada uno de los proyectos en cada uno de sus repositorios  
-correspondientes.
+correspondientes.  
+
 
 ## TURISMO & PLANNING 🏨📝
 
