@@ -12,7 +12,7 @@ en él en mis prácticas de DAM.
 
 TURISMO & PLANNING 🏨📝
 -
-Este es mi TFG de DAM. Es un proyecto que combina el turismo con la planificación y tiene muchos
+Este es mi TFG de DAM, es un proyecto que combina el turismo con la planificación y tiene muchos
 apartados interesantes. Repositorios vinculados a este proyecto: AdminTurismo, TurismoPlanning-Desktop, TurismoPlanning-Mobile.
 
 ![Icono oficial app](https://github.com/user-attachments/assets/60a4ddd1-84e4-4c03-bf8c-2303d1b4754f)
