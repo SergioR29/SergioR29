@@ -10,8 +10,8 @@ Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis
 proyectos es mi TFG de DAM y también menciono otro proyecto ya que fui colaborador 
 en él en mis prácticas de DAM.
 
-TURISMO & PLANNING 🏨📝
--
+### TURISMO & PLANNING 🏨📝
+
 Este es mi TFG de DAM, es un proyecto que combina el turismo con la planificación y tiene muchos
 apartados interesantes. Repositorios vinculados a este proyecto: AdminTurismo, TurismoPlanning-Desktop, TurismoPlanning-Mobile.
 
@@ -22,8 +22,8 @@ Es una app ideal para turistas y personas que vivan cerca de la provincia de Gua
 Hay 2 versiones oficiales para el usuario: Windows (TurismoPlanning-Desktop) y Android (TurismoPlanning-Mobile). 
 Hay una app auxiliar para manejar la parte turística: Windows (AdminTurismo).
 
-AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
--
+### AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
+
 Yo fui colaborador de este proyecto en mis prácticas de DAM. Este proyecto consiste en una app de escritorio para optimizar las gestiones internas de este ayuntamiento.
 <!--
 **SergioR29/SergioR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
