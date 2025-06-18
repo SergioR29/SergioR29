@@ -1,5 +1,9 @@
 ## Sobre mí 👨‍💻
-
+Desarrollador de Aplicaciones Multiplataforma (Escritorio y Móvil) con pasión
+por la informática y el diseño de interfaces gráficas. Mi objetivo es aportar
+mis conocimientos en Python, Java y administración de bases de datos para
+desarrollar soluciones innovadoras y eficientes que impulsen los objetivos
+de la empresa, siempre en un entorno de colaboración y trabajo en equipo
 <!--
 **SergioR29/SergioR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
