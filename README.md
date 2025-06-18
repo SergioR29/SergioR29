@@ -13,11 +13,6 @@ en él en mis prácticas de DAM.
   
 - **TURISMO & PLANNING** -> AdminTurismo, TurismoPlanning-Desktop, TurismoPlanning-Mobile.  
 - **AYUNTAMIENTO DE MARCHAMALO** -> AyutamientoMarchamalo.  
-  
-  
-Más información de cada uno de los proyectos en cada uno de sus repositorios  
-correspondientes.  
-
 
 ## TURISMO & PLANNING 🏨📝
 
