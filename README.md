@@ -9,12 +9,10 @@ de la empresa, siempre en un entorno de colaboración y trabajo en equipo.
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis 
 proyectos es mi TFG de DAM y también menciono otro proyecto ya que fui colaborador 
 en él en mis prácticas de DAM.
-
-
+  
 - **TURISMO & PLANNING** -> AdminTurismo, TurismoPlanning-Desktop, TurismoPlanning-Mobile.  
 - **AYUNTAMIENTO DE MARCHAMALO** -> AyutamientoMarchamalo.  
-
-
+  
 Más información de cada uno de los proyectos en cada uno de sus repositorios  
 correspondientes.  
 
