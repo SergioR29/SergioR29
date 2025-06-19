@@ -26,11 +26,11 @@ Diseñada como una aplicación ideal para turistas y residentes de la provincia 
 
 Funcionalidades destacadas:
 
-- Exportación de Documentos: Generación de archivos en formatos HTML o PDF (para informes o planes).
-- Visualización Geoespacial e Información Climática: Integración de mapas con ubicación (actual o de una ciudad seleccionada) y datos climáticos en tiempo real.
-- Planificación Personalizada: Organización de visitas a ciudades/sitios y eventos personales, con agrupación por categorías definidas por el usuario.
-- Calendario Interactivo: Vista de eventos agrupados por el día seleccionado del mes.
-- Temas Personalizables: Opciones de visualización (Claro, Oscuro o Predeterminado por el Sistema) para una experiencia de usuario cómoda.
+- **Exportación de Documentos**: Generación de archivos en formatos HTML o PDF (para informes o planes).
+- **Visualización Geoespacial e Información Climática**: Integración de mapas con ubicación (actual o de una ciudad seleccionada) y datos climáticos en tiempo real.
+- **Planificación Personalizada**: Organización de visitas a ciudades/sitios y eventos personales, con agrupación por categorías definidas por el usuario.
+- **Calendario Interactivo**: Vista de eventos agrupados por el día seleccionado del mes.
+- **Temas Personalizables**: Opciones de visualización (Claro, Oscuro o Predeterminado por el Sistema) para una experiencia de usuario cómoda.
 
 Hay 2 versiones oficiales para el usuario: Windows (**_TurismoPlanning-Desktop_**) y Android (**_TurismoPlanning-Mobile_**).  
 Hay una app auxiliar para manejar la parte turística: Windows (**_AdminTurismo_**).
