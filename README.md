@@ -18,8 +18,9 @@ correspondientes de cada proyecto.
   
 ## TURISMO & PLANNING 🏨📝
 
-Este es mi TFG de DAM, es un proyecto que combina el turismo con la planificación y tiene muchos
-apartados interesantes.
+Este es mi Trabajo de Fin de Grado (TFG) de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto integral que integra funcionalidades de turismo con la planificación personal para optimizar la organización diaria.
+
+Diseñada como una aplicación ideal para turistas y residentes de la provincia de Guadalajara (Castilla-La Mancha, España), permite organizar el día a día con gran detalle.
 
 ![Icono oficial app](https://github.com/user-attachments/assets/60a4ddd1-84e4-4c03-bf8c-2303d1b4754f)
 
