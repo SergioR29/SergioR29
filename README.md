@@ -12,8 +12,13 @@ en él en mis prácticas de DAM. Más información de cada proyecto en los repos
 correspondientes de cada proyecto.
   
   
-- **TURISMO & PLANNING** -> [AdminTurismo](https://github.com/SergioR29/AdminTurismo), [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop), [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile).  
-- **AYUNTAMIENTO DE MARCHAMALO** -> [AyutamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo).  
+- **TURISMO & PLANNING**  
+  - [AdminTurismo](https://github.com/SergioR29/AdminTurismo)
+  - [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop)
+  - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile).
+    
+- **AYUNTAMIENTO DE MARCHAMALO**  
+  - [AyutamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo).  
 
   
 ## TURISMO & PLANNING 🏨📝
