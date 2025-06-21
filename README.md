@@ -23,7 +23,7 @@ correspondientes de cada proyecto.
   
 ## TURISMO & PLANNING 🏨📝
 
-Este es mi Trabajo de Fin de Grado (TFG) del ciclo de FP superior de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto integral que integra funcionalidades de turismo con la planificación personal para optimizar la organización diaria.
+Este es mi Trabajo de Fin de Grado (TFG) del ciclo de FP de grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto integral que integra funcionalidades de turismo con la planificación personal para optimizar la organización diaria.
 
 Diseñada como una aplicación ideal para turistas y residentes de la provincia de Guadalajara (Castilla-La Mancha, España), permite organizar el día a día con gran detalle.
 
@@ -42,7 +42,7 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
-Durante mis prácticas del ciclo de FP de grado superior "Desarrollo de Aplicaciones Multiplataforma (DAM)", colaboré en el desarrollo de esta aplicación de escritorio, diseñada para optimizar las gestiones internas del ayuntamiento de Marchamalo.
+Durante mis prácticas del ciclo de FP de grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM), colaboré en el desarrollo de esta aplicación de escritorio, diseñada para optimizar las gestiones internas del ayuntamiento de Marchamalo.
 
 En el marco de esta colaboración, fui el encargado de desarrollar varias partes del software, así como las interfaces de usuario correspondientes a cada módulo que me fue asignado a desarrollar.
 
