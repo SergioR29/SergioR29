@@ -9,7 +9,7 @@ de la empresa, siempre en un entorno de colaboración y trabajo en equipo.
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis 
 proyectos es mi TFG de DAM y también menciono otro proyecto ya que fui colaborador 
 en él en mis prácticas de DAM. Más información de cada proyecto en los repositorios 
-correspondientes de cada proyecto. 
+correspondientes de cada proyecto.  
 Patrones de Diseño y Arquitectura: **_MVC_** (Escritorio) y **_MVVM_** (Móvil).  
   
 - **TURISMO & PLANNING**  
