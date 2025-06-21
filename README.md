@@ -18,10 +18,11 @@ correspondientes de cada proyecto.
   - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile).  
     
 - **AYUNTAMIENTO DE MARCHAMALO**  
-  - [AyutamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo).  
+  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo).  
   
   
-Patrones de Diseño y Arquitectura: **_MVC_** (Escritorio) y **_MVVM_** (Móvil).
+Patrones de Diseño y Arquitectura: **_MVC_** (Escritorio) y **_MVVM_** (Móvil).  
+
   
 ## TURISMO & PLANNING 🏨📝
 
