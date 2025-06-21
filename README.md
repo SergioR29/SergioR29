@@ -37,8 +37,8 @@ Funcionalidades destacadas:
 - **Calendario Interactivo**: Vista de eventos agrupados por el día seleccionado del mes.
 - **Temas Personalizables**: Opciones de visualización (Claro, Oscuro o Predeterminado por el Sistema) para una experiencia de usuario cómoda.
 
-Hay 2 versiones oficiales para el usuario: Windows (**_TurismoPlanning-Desktop_**) y Android (**_TurismoPlanning-Mobile_**).  
-Hay una app auxiliar para manejar la parte turística: Windows (**_AdminTurismo_**).
+Hay 2 versiones oficiales para el usuario: Windows ([**_TurismoPlanning-Desktop_**](https://github.com/SergioR29/TurismoPlanning-Desktop)) y Android ([**_TurismoPlanning-Mobile_**](https://github.com/SergioR29/TurismoPlanning-Mobile)).  
+Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo_**](https://github.com/SergioR29/AdminTurismo)).
 
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
