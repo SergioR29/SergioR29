@@ -15,7 +15,7 @@ correspondientes de cada proyecto.
 - **TURISMO & PLANNING**  
   - [AdminTurismo](https://github.com/SergioR29/AdminTurismo)
   - [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop)
-  - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile).
+  - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile).  
     
 - **AYUNTAMIENTO DE MARCHAMALO**  
   - [AyutamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo).  
