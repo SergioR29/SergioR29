@@ -19,7 +19,9 @@ correspondientes de cada proyecto.
     
 - **AYUNTAMIENTO DE MARCHAMALO**  
   - [AyutamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo).  
-
+  
+  
+Patrones de Diseño y Arquitectura: **_MVC_** (Escritorio) y **_MVVM_** (Móvil).
   
 ## TURISMO & PLANNING 🏨📝
 
