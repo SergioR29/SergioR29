@@ -52,7 +52,9 @@ Uno de mis compañeros de prácticas es el propietario de este proyecto, ya que 
 ![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
 
 
-Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.
+Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.  
+
+Detallo mucho más mis funciones como colaborador del proyecto en el repositorio correspondiente, que es [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo)
 <!--
 **SergioR29/SergioR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
