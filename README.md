@@ -1,9 +1,5 @@
 # Sobre mí 👨‍💻
-Desarrollador de Aplicaciones Multiplataforma (Escritorio y Móvil) con pasión
-por la informática y el diseño de interfaces gráficas. Mi objetivo es aportar
-mis conocimientos en Python, Java y administración de bases de datos para
-desarrollar soluciones innovadoras y eficientes que impulsen los objetivos
-de la empresa, siempre en un entorno de colaboración y trabajo en equipo.
+Desarrollador de Aplicaciones Multiplataforma (Escritorio y Móvil) con pasión por el desarrollo de software y el diseño de interfaces. Mi objetivo es aportar mis conocimientos en Backend y Frontend para desarrollar soluciones innovadoras y eficientes que impulsen los objetivos de la empresa, siempre en un entorno de colaboración y trabajo en equipo.
 
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis 
