@@ -3,8 +3,8 @@ Desarrollador de Aplicaciones Multiplataforma (Escritorio y Móvil) con pasión 
 
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis 
-proyectos es mi TFG de DAM y también menciono otro proyecto ya que fui colaborador 
-en él en mis prácticas de DAM. Más información de cada proyecto en los repositorios 
+proyectos es mi TFG del CFGS DAM y también menciono otro proyecto ya que fui colaborador 
+en él en mis prácticas de CFGS DAM. Más información de cada proyecto en los repositorios 
 correspondientes de cada proyecto.    
   
 - **TURISMO & PLANNING**  
