@@ -1,5 +1,5 @@
 # Sobre mí 👨‍💻
-Desarrollador de Aplicaciones Multiplataforma (Escritorio y Móvil) con pasión por el desarrollo de software y el diseño de interfaces. Mi objetivo es aportar mis habilidades en Backend y Frontend para desarrollar soluciones innovadoras y eficientes que impulsen los objetivos de la empresa, siempre en un entorno de colaboración y trabajo en equipo.
+Desarrollador Full Stack Junior con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y una sólida combinación de habilidades en backend y frontend. Mi compromiso es diseñar y construir soluciones de software innovadoras y eficientes que contribuyan directamente a los objetivos de la empresa. Gran interés en el desarrollo de bases de datos y nuevas tecnologías.
 
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis 
