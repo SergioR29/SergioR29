@@ -1,5 +1,5 @@
 # Sobre mí 👨‍💻
-Desarrollador Full Stack Junior con formación en Desarrollo de Aplicaciones Multiplataforma (DAM) y una sólida combinación de habilidades en backend y frontend. Mi compromiso es diseñar y construir soluciones de software innovadoras y eficientes que contribuyan directamente a los objetivos de la empresa. Gran interés en el desarrollo de bases de datos y nuevas tecnologías.
+Desarrollador Full Stack Junior con formación terminada en Desarrollo de Aplicaciones Multiplataforma (DAM) y una sólida combinación de habilidades en backend y frontend. Mi compromiso es diseñar y construir soluciones de software innovadoras y eficientes que contribuyan directamente a los objetivos de la empresa. Gran interés en el desarrollo de bases de datos y nuevas tecnologías.
 
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis 
