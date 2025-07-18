@@ -18,9 +18,9 @@ correspondientes de cada proyecto.
 ## TURISMO & PLANNING 🏨📝
 
 Este es mi Trabajo de Fin de Grado (TFG) del ciclo de FP de grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto integral que integra funcionalidades de turismo con la planificación personal para optimizar la organización diaria.  
-Metodología de Desarrollo: **_RUP_**.  
 
-Diseñada como una aplicación ideal para turistas y residentes de la provincia de Guadalajara (Castilla-La Mancha, España), permite organizar el día a día con gran detalle.
+Diseñada como una aplicación ideal para turistas y residentes de la provincia de Guadalajara (Castilla-La Mancha, España), permite organizar el día a día con gran detalle.  
+Metodología de Desarrollo: **_RUP_**.  
 
 ![Icono oficial app](https://github.com/user-attachments/assets/60a4ddd1-84e4-4c03-bf8c-2303d1b4754f)
 
