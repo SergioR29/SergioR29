@@ -54,8 +54,7 @@ Debido a nuestro gran trabajo hemos salido en las redes sociales del ayuntamient
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Logo de Instagram" width="40" height="40">](https://www.instagram.com/p/DKb6KS6M-bp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Logo de Facebook" width="40" height="40">](https://www.facebook.com/AytoMarchamalo/posts/-el-ayuntamiento-y-el-ies-brianda-de-mendoza-colaboran-para-desarrollar-nuevo-so/1148917313932060/)
 
-Detallo mucho más mi trabajo realizado como colaborador del proyecto en el repositorio y apartado correspondientes, para verlo haz clic [aquí](https://github.com/SergioR29/AyuntamientoMarchamalo?tab=readme-ov-file#mi-contribuci%C3%B3n-y-responsabilidades).  
-Metodologías de Desarrollo: **_Scrum_** y **_XP_**.
+Detallo mucho más mi trabajo realizado como colaborador del proyecto en el repositorio y apartado correspondientes, para verlo haz clic [aquí](https://github.com/SergioR29/AyuntamientoMarchamalo?tab=readme-ov-file#mi-contribuci%C3%B3n-y-responsabilidades).
 <!--
 **SergioR29/SergioR29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
