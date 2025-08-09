@@ -12,7 +12,7 @@ correspondientes de cada proyecto.
   - [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop)
   - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile)  
     
-- **AYUNTAMIENTO DE MARCHAMALO**  
+- **COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO**  
   - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo)  
 
 ## TURISMO & PLANNING 🏨📝
@@ -34,7 +34,7 @@ Funcionalidades destacadas:
 Hay 2 versiones oficiales para el usuario: Windows ([**_TurismoPlanning-Desktop_**](https://github.com/SergioR29/TurismoPlanning-Desktop)) y Android ([**_TurismoPlanning-Mobile_**](https://github.com/SergioR29/TurismoPlanning-Mobile)).  
 Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo_**](https://github.com/SergioR29/AdminTurismo)).
 
-## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
+## COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
 Durante mis prácticas del ciclo de FP de grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM), colaboré en el desarrollo de esta aplicación de escritorio, diseñada para optimizar las gestiones internas del ayuntamiento de Marchamalo.
 
