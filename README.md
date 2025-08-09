@@ -13,7 +13,7 @@ correspondientes de cada proyecto.
   - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile)  
     
 - **COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO**  
-  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo)  
+  - [Colab_AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo)  
 
 ## TURISMO & PLANNING 🏨📝
 
