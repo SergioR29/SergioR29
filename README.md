@@ -18,7 +18,7 @@ correspondientes de cada proyecto.
 **--**  
 - **EJERCICIOS DAM**  
   - [Ejercicios_DAM](https://github.com/SergioR29/Ejercicios_DAM)  
-
+    
 ## TURISMO & PLANNING 🏨📝
 
 Este es mi Trabajo de Fin de Grado (TFG) del ciclo de FP de grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto integral que integra funcionalidades de turismo con la planificación personal para optimizar la organización diaria.  
