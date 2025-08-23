@@ -1,5 +1,5 @@
 # Sobre mí 👨‍💻
-Desarrollador Full-Stack junior con una sólida combinación de habilidades en backend y frontend. Mi objetivo es desarrollar soluciones de software  que contribuyan lo máximo posible a los objetivos de la empresa. Gran interés en todos los ámbitos del desarrollo de software y en el aprendizaje de nuevas tecnologías.
+Desarrollador Full-Stack DAM con una sólida combinación de habilidades en backend y frontend. Mi objetivo es desarrollar soluciones de software  que contribuyan lo máximo posible a los objetivos de la empresa. Gran interés en todos los ámbitos del desarrollo de software y en el aprendizaje de nuevas tecnologías.
 
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis proyectos es mi TFG del CFGS DAM y también menciono otro proyecto relacionado con el ayuntamiento de marchamalo ya que fui colaborador 
