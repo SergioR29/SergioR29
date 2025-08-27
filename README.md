@@ -1,5 +1,5 @@
 # Sobre mí 👨‍💻
-Desarrollador Multiplataforma con una sólida combinación de habilidades en backend y frontend. Mi objetivo es desarrollar soluciones de software  que contribuyan lo máximo posible a los objetivos de la empresa. Gran interés en todos los ámbitos del desarrollo de software y en el aprendizaje de nuevas tecnologías.
+Desarrollador Multiplataforma con la capacidad de crear aplicaciones de escritorio eficientes, lo que ha permitido reducir en un 75% el tiempo de gestión en los proyectos del Ayuntamiento de Marchamalo. Con experiencia en el ciclo de vida completo del software, busco oportunidades para aplicar mis habilidades técnicas y metodologías ágiles en nuevos retos.
 
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis proyectos es mi TFG del CFGS DAM y también menciono otro proyecto relacionado con el ayuntamiento de marchamalo ya que fui colaborador 
