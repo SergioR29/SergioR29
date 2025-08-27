@@ -40,7 +40,7 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 
 Durante mis prácticas del ciclo de FP de grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM), colaboré en el desarrollo de esta aplicación de escritorio con 4 personas, diseñada para optimizar las gestiones internas del ayuntamiento de Marchamalo.
 
-En el marco de esta colaboración, fui el encargado de desarrollar el 30% del software, así como las interfaces de usuario correspondientes a cada módulo que me fue asignado a desarrollar. Para el desarrollo del proyecto completo se han utilizado una serie de metodologías de desarrollo ágil (**_Scrum_** y **_XP_**).
+En el marco de esta colaboración, fui el encargado de desarrollar el 30% de las funcionalidades, así como las interfaces de usuario correspondientes a cada módulo que me fue asignado a desarrollar. Para el desarrollo del proyecto completo se han utilizado una serie de metodologías de desarrollo ágil (**_Scrum_** y **_XP_**).
 
 Mi contribución principal y completa se centró en la Generación de Documentos PDF. Fui responsable de construir las plantillas HTML necesarias y de implementar la funcionalidad completa para la automatización de la creación de informes y documentos en formato PDF.
 
