@@ -2,7 +2,7 @@
 Desarrollador Multiplataforma con la capacidad de crear aplicaciones de escritorio y móvil eficientes, lo que ha permitido reducir en un 75% el tiempo de gestión en proyectos del Ayuntamiento de Marchamalo. Con experiencia en el ciclo de vida completo del software, busco oportunidades para aplicar mis habilidades técnicas y metodologías ágiles en nuevos retos.
 
 # Proyectos personales 💼
-Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis proyectos es mi TFG del CFGS DAM y también menciono otro proyecto relacionado con el ayuntamiento de marchamalo ya que fui colaborador 
+Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis proyectos es mi TFG del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM) y también menciono otro proyecto relacionado con el ayuntamiento de marchamalo ya que fui colaborador 
 en él en mis prácticas de CFGS DAM. El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y todo lo que he hecho mientras estaba aprendiendo diferentes tecnologías durante mi formación como desarrollador durante y después de mis estudios. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
   
 - **TURISMO & PLANNING**  
@@ -19,7 +19,7 @@ en él en mis prácticas de CFGS DAM. El repositorio de ejercicios DAM es aquel 
     
 ## TURISMO & PLANNING 🏨📝
 
-Este es mi Trabajo de Fin de Grado (TFG) del ciclo de FP de grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto integral que integra funcionalidades de turismo con la planificación personal para optimizar la organización diaria.  
+Este es mi Trabajo de Fin de Grado (TFG) del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto integral que integra funcionalidades de turismo con la planificación personal para optimizar la organización diaria.  
 
 Diseñada como una aplicación ideal para turistas y residentes de la provincia de Guadalajara (Castilla-La Mancha, España), permite organizar el día a día con gran detalle. Se ha seguido la metodología de desarrollo **_RUP_** a la hora de trabajar en todo el proyecto.  
 
@@ -38,7 +38,7 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
-Durante mis prácticas del ciclo de FP de grado superior de Desarrollo de Aplicaciones Multiplataforma (DAM), colaboré en el desarrollo de esta aplicación de escritorio con 4 personas, diseñada para optimizar las gestiones internas del ayuntamiento de Marchamalo.
+Durante mis prácticas del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM), colaboré en el desarrollo de esta aplicación de escritorio con 4 personas, diseñada para optimizar las gestiones internas del ayuntamiento de Marchamalo.
 
 En el marco de esta colaboración, fui el encargado de desarrollar el 30% de las funcionalidades, así como las interfaces de usuario correspondientes a cada funcionalidad que me fue asignada a desarrollar. Para el desarrollo del proyecto completo se han utilizado una serie de metodologías de desarrollo ágil (**_Scrum_** y **_XP_**).
 
