@@ -16,7 +16,7 @@ en él en mis prácticas de CFGS DAM. El repositorio de ejercicios DAM es aquel 
     
 - **EJERCICIOS DAM**  
   - [Ejercicios_DAM](https://github.com/SergioR29/Ejercicios_DAM)
-  - [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE)
+  - [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE) (Oracle DB)
     
 ## TURISMO & PLANNING 🏨📝
 
