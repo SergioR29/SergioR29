@@ -2,8 +2,7 @@
 Desarrollador Multiplataforma con la capacidad de crear aplicaciones de escritorio y móvil eficientes, lo que ha permitido reducir en un 75% el tiempo de gestión en proyectos del Ayuntamiento de Marchamalo. Con experiencia en el ciclo de vida completo del software, busco oportunidades para aplicar mis habilidades técnicas y metodologías ágiles en nuevos retos.
 
 # Proyectos personales 💼
-Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis proyectos es mi TFG del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM) y también menciono otro proyecto relacionado con el ayuntamiento de marchamalo ya que fui colaborador 
-en él en mis prácticas de CFGS DAM. El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y todo lo que he hecho mientras estaba aprendiendo diferentes tecnologías durante mi formación como desarrollador durante y después de mis estudios. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
+Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis proyectos es mi TFG del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM) y también menciono otro proyecto relacionado con el ayuntamiento de marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM. El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y todo lo que he hecho mientras estaba aprendiendo diferentes tecnologías durante mi formación como desarrollador durante y después de mis estudios. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
   
 - **TURISMO & PLANNING**  
   - [AdminTurismo](https://github.com/SergioR29/AdminTurismo)
