@@ -5,7 +5,9 @@ Desarrollador Multiplataforma con la capacidad de crear aplicaciones de escritor
 Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis proyectos es mi TFG del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM) y también menciono otro proyecto relacionado con el ayuntamiento de marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.  
 
 El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y todo lo que he hecho mientras estaba aprendiendo diferentes tecnologías durante mi formación como desarrollador durante y después de mis estudios. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
-  
+
+--  
+
 - **TURISMO & PLANNING**  
   - [AdminTurismo](https://github.com/SergioR29/AdminTurismo)
   - [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop)
