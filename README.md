@@ -20,6 +20,8 @@ El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y 
 - **EJERCICIOS DAM**  
   - [Ejercicios_DAM](https://github.com/SergioR29/Ejercicios_DAM) (Listado de todos los proyectos realizados durante mi formación en la FP DAM)
   - [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE) (Oracle DB y PL/SQL)
+
+---
     
 ## TURISMO & PLANNING 🏨📝
 
