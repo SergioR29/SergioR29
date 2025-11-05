@@ -7,7 +7,7 @@ Cada proyecto personal tiene sus repositorios de GitHub asociados. Uno de mis pr
 El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y todo lo que he hecho mientras estaba aprendiendo diferentes tecnologías durante mi formación como desarrollador durante y después de mis estudios. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
 
 ---  
-
+---
 - **TURISMO & PLANNING**  
   - [AdminTurismo](https://github.com/SergioR29/AdminTurismo)
   - [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop)
