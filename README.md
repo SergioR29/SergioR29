@@ -13,7 +13,7 @@ El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y 
   - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile)  
     
 - **COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO**  
-  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Prácticas 2º curso de CFGS DAM)
+  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Prácticas de CFGS DAM)
     
     
 - **EJERCICIOS DAM**  
