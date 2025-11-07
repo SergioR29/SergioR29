@@ -17,7 +17,7 @@ El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y 
     
     
 - **EJERCICIOS DAM**  
-  - [Ejercicios_DAM](https://github.com/SergioR29/Ejercicios_DAM) (Listado de todos los proyectos realizados durante mi formación en la FP DAM)
+  - [Ejercicios_DAM](https://github.com/SergioR29/Ejercicios_DAM) (Listado de todos los proyectos realizados durante mi formación en el CFGS DAM)
   - [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE) (Oracle DB y PL/SQL)
 
 ---
@@ -45,7 +45,7 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 
 Durante mis prácticas del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM), colaboré en el desarrollo de esta aplicación de escritorio con 4 personas, diseñada para optimizar las gestiones internas del ayuntamiento de Marchamalo.
 
-En el marco de esta colaboración, fui el encargado de desarrollar el 30% de las funcionalidades, así como las interfaces de usuario correspondientes a cada funcionalidad que me fue asignada a desarrollar. Para el desarrollo del proyecto completo se han utilizado una serie de metodologías de desarrollo ágil (**_Scrum_** y **_XP_**).
+En el marco de esta colaboración, fui el encargado de desarrollar el 30% de las funcionalidades, así como las interfaces de usuario correspondientes a cada funcionalidad que me fue asignada a desarrollar. Para el desarrollo del proyecto completo se han utilizado una serie de metodologías de desarrollo ágil (**Scrum** y **XP**).
 
 Mi contribución principal y completa se centró en la Generación de Documentos PDF. Fui responsable de construir las plantillas HTML necesarias y de implementar la funcionalidad completa para la automatización de la creación de informes y documentos en formato PDF.
 
