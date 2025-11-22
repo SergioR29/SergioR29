@@ -19,6 +19,7 @@ El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y 
 - **EJERCICIOS DAM**  
   - [Ejercicios_DAM](https://github.com/SergioR29/Ejercicios_DAM) (Listado de todos los proyectos realizados durante mi formación en el CFGS DAM)
   - [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE) (Oracle DB y PL/SQL)
+  - [Inmobiliaria](https://github.com/SergioR29/Inmobiliaria) (MongoDB)
   - [SumiMetalicos-S.A](https://github.com/SergioR29/SumiMetalicos-S.A) (JasperReports con Python, Jaspersoft Studio para diseñar las plantillas JRXML de los informes)
 
 ---
