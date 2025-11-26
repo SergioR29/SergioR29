@@ -21,6 +21,7 @@ El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y 
   - [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE) (Oracle DB y PL/SQL)
   - [Inmobiliaria](https://github.com/SergioR29/Inmobiliaria) (MongoDB y JSON)
   - [SumiMetalicos-S.A](https://github.com/SergioR29/SumiMetalicos-S.A) (JasperReports con Python, Jaspersoft Studio para diseñar las plantillas JRXML de los informes)
+  - [ChatUDP](https://github.com/SergioR29/ChatUDP) (Java y UDP)
 
 ---
     
