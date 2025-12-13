@@ -1,5 +1,5 @@
 # Sobre mí 👨‍💻
-Desarrollador Multiplataforma con la capacidad de crear aplicaciones de escritorio y móvil eficientes, lo que ha permitido reducir en un 75% el tiempo de gestión en proyectos del Ayuntamiento de Marchamalo. Con experiencia en el ciclo de vida completo del software, busco oportunidades para aplicar mis habilidades técnicas y metodologías ágiles en nuevos retos.
+Desarrollador Multiplataforma con la capacidad de crear aplicaciones de escritorio y móvil eficientes, lo que ha permitido reducir en un 75% el tiempo de gestión en proyectos del Ayuntamiento de Marchamalo. Con experiencia en el ciclo de vida completo del software, busco oportunidades para aplicar mis habilidades técnicas y metodologías ágiles en nuevos retos. Con más de 2 años de experiencia en Java y PL/SQL gracias a mi formación como Técnico Superior en Desarrollo de Aplicaciones Multiplataforma.
 
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto **TURISMO & PLANNING** es mi **TFG** del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM) y también menciono otro proyecto relacionado con el ayuntamiento de marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.  
