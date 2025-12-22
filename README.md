@@ -22,15 +22,16 @@ El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y 
   - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Prácticas 2º curso del CFGS DAM)
     
 ---
-- **EJERCICIOS DAM**    
-  - [Ejercicios_DAM](https://github.com/SergioR29/Ejercicios_DAM) (Listado de todos los proyectos realizados durante mi formación en el CFGS DAM)
+- **EJERCICIOS_DAM**    
+  - [Ejercicios_DAM](https://github.com/SergioR29/Ejercicios_DAM) (Repositorio principal en el que se listan todos los proyectos realizados durante mi formación en el CFGS DAM)
   - [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE) (Oracle DB y PL/SQL, Java)
   - [SumiMetalicos-S.A](https://github.com/SergioR29/SumiMetalicos-S.A) (JasperReports con Python, Jaspersoft Studio para diseñar las plantillas JRXML de los informes)
   - [Inmobiliaria](https://github.com/SergioR29/Inmobiliaria) (MongoDB y JSON, Java)
   - [ChatUDP](https://github.com/SergioR29/ChatUDP) (java.net y UDP)
 
 ---
-- **PROYECTOS GENERADOS CON IA (MEDIANTE VIBECODING)**  
+- **PROYECTOS GENERADOS MEDIANTE VIBECODING + IA**
+  - [ProyectosIA](https://github.com/SergioR29/ProyectosIA) (Repositorio principal en el que se listan todos los proyectos generados mediante metodologías de Vibecoding + IA)
   - [LinkDirectory](https://github.com/SergioR29/LinkDirectory) (HTML, CSS, JavaScript y Node.js, todo generado mediante el empleo de la ingeniería de prompts con Antigravity)
 ---
     
