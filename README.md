@@ -29,6 +29,7 @@ El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y 
   - [Inmobiliaria](https://github.com/SergioR29/Inmobiliaria) (MongoDB y JSON, Java)
   - [ChatUDP](https://github.com/SergioR29/ChatUDP) (java.net y UDP)
 
+---
 - **PROYECTOS GENERADOS CON IA (MEDIANTE VIBECODING)**
   - [LinkDirectory](https://github.com/SergioR29/LinkDirectory) (JavaScript y Node.js, todo generado mediante el empleo de la ingeniería de prompts con Antigravity)
 ---
