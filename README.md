@@ -1,9 +1,11 @@
 # Sobre mí 👨‍💻
-Desarrollador Multiplataforma con la capacidad de crear aplicaciones de escritorio y móvil eficientes, lo que ha permitido reducir en un 75% el tiempo de gestión en proyectos del Ayuntamiento de Marchamalo. Con experiencia en el ciclo de vida completo del software, busco oportunidades para aplicar mis habilidades técnicas y metodologías ágiles en nuevos retos.
+Desarrollador de software multiplataforma con la capacidad de crear aplicaciones de escritorio y móvil eficientes. Esto ha permitido reducir en un 75% el tiempo de gestión en proyectos del Ayuntamiento de Marchamalo. Con experiencia en el ciclo de vida completo del software, busco oportunidades para aplicar mis habilidades técnicas y metodologías ágiles en nuevos retos. 
 
-Recientemente, he completado un curso en el CEEI Guadalajara (finalizado el 16 de Diciembre de 2025) que me ha enseñado a usar herramientas de IA generativa y a desarrollar software mediante vibecoding con IA. Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza para automatizar procesos lo máximo posible.
+Recientemente, he completado un curso en el CEEI Guadalajara que me ha enseñado a usar un gran abanico de herramientas de IA generativa, desarrollar software mediante metodologías de Vibecoding con IA y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
 
-También, asistí recientemente (el 17 de Diciembre de 2025) al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que tuve grandes oportunidades de disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos.
+Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻
+
+También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que tuve grandes oportunidades de disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos.
 
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto **TURISMO & PLANNING** es mi **TFG** del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM) y también menciono otro proyecto relacionado con el ayuntamiento de marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.  
