@@ -31,7 +31,7 @@ El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y 
 
 ---
 - **PROYECTOS GENERADOS MEDIANTE VIBECODING + IA**
-  - [ProyectosIA](https://github.com/SergioR29/ProyectosIA) (Repositorio principal en el que se listan todos los proyectos generados mediante metodologías de Vibecoding + IA)
+  - [ProyectosIA](https://github.com/SergioR29/ProyectosIA) (Repositorio principal en el que se listan todos los proyectos generados con IA)
   - [LinkDirectory](https://github.com/SergioR29/LinkDirectory) (HTML, CSS, JavaScript y Node.js, todo generado mediante el empleo de la ingeniería de prompts con Antigravity)
 ---
     
