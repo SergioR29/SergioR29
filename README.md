@@ -19,7 +19,7 @@ El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y 
   - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile)  
     
 - **COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO**  
-  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Prácticas CFGS DAM)
+  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Prácticas 2º curso del CFGS DAM)
     
 ---
 - **EJERCICIOS DAM**    
@@ -31,7 +31,7 @@ El repositorio de ejercicios DAM es aquel en el que muestro mis conocimientos y 
 
 ---
 - **PROYECTOS GENERADOS CON IA (MEDIANTE VIBECODING)**  
-  - [LinkDirectory](https://github.com/SergioR29/LinkDirectory) (JavaScript y Node.js, todo generado mediante el empleo de la ingeniería de prompts con Antigravity)
+  - [LinkDirectory](https://github.com/SergioR29/LinkDirectory) (HTML, CSS, JavaScript y Node.js, todo generado mediante el empleo de la ingeniería de prompts con Antigravity)
 ---
     
 ## TURISMO & PLANNING 🏨📝
