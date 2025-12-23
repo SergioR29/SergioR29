@@ -24,7 +24,7 @@ El proyecto **LinkDirectory** es el proyecto final que he construido durante mi 
 ---
 El repositorio de ProyectosIA es el repositorio en el que listo todos los proyectos que he ido generando con Vibecoding + IA durante mi formación en ello y después del curso. 
   
-- **PROYECTOS GENERADOS MEDIANTE VIBECODING + IA**
+- **PROYECTOS (VIBECODING + IA)**
   - [ProyectosIA](https://github.com/SergioR29/ProyectosIA) (Repositorio principal en el que se listan todos los proyectos generados con IA)
   - [LinkDirectory](https://github.com/SergioR29/LinkDirectory) (HTML, CSS, JavaScript y Node.js, todo generado mediante el empleo de la ingeniería de prompts con Antigravity)
     
