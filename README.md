@@ -8,7 +8,7 @@ Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrol
 También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que tuve grandes oportunidades de disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos.
 
 # Proyectos personales 💼
-Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto **TURISMO & PLANNING** es mi **TFG** del CFGS de Desarrollo de Aplicaciones Multiplataforma (**DAM**) y también menciono otro proyecto relacionado con el ayuntamiento de marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.  
+Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto **TURISMO & PLANNING** es mi **TFG** del CFGS de Desarrollo de Aplicaciones Multiplataforma (**DAM**) y también menciono otro proyecto relacionado con el ayuntamiento de Marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.  
   
 El proyecto **LinkDirectory** es el proyecto final que he construido durante mi formación en **Vibecoding + IA**. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
   
