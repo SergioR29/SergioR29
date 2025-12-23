@@ -24,14 +24,14 @@ El proyecto **LinkDirectory** es el proyecto final que he construido durante mi 
 ---
 El repositorio de ProyectosIA es el repositorio en el que listo todos los proyectos que he ido generando con Vibecoding + IA durante mi formación en ello y después del curso. 
   
-- **PROYECTOS (VIBECODING + IA)**
+- **PROYECTOS (VIBECODING + IA)**  
   - [ProyectosIA](https://github.com/SergioR29/ProyectosIA) (Repositorio principal en el que se listan todos los proyectos generados con IA)
   - [LinkDirectory](https://github.com/SergioR29/LinkDirectory) (HTML, CSS, JavaScript y Node.js, todo generado mediante el empleo de la ingeniería de prompts con Antigravity)
     
 ---
 El repositorio de EJERCICIOS_DAM es aquel en el que muestro mis conocimientos y todo lo que he hecho mientras estaba aprendiendo diferentes tecnologías durante mi formación como desarrollador durante y después de mis estudios.  
   
-- **EJERCICIOS_DAM**    
+- **EJERCICIOS_DAM**  
   - [Ejercicios_DAM](https://github.com/SergioR29/Ejercicios_DAM) (Repositorio principal en el que se listan todos los proyectos realizados durante mi formación en el CFGS DAM)
   - [IndustriaMusical](https://github.com/SergioR29/PROYECTO_ORACLE) (Oracle DB y PL/SQL, Java)
   - [SumiMetalicos-S.A](https://github.com/SergioR29/SumiMetalicos-S.A) (JasperReports con Python, Jaspersoft Studio para diseñar las plantillas JRXML de los informes)
