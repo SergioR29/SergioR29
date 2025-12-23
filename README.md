@@ -10,7 +10,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto **TURISMO & PLANNING** es mi **TFG** del CFGS de Desarrollo de Aplicaciones Multiplataforma (**DAM**) y también menciono otro proyecto relacionado con el ayuntamiento de marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.  
   
-El proyecto **LinkDirectory** es mi proyecto final que he construido durante mi formación en **Vibecoding + IA**. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
+El proyecto **LinkDirectory** es el proyecto final que he construido durante mi formación en **Vibecoding + IA**. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
   
 ---
 - **TURISMO & PLANNING**  
