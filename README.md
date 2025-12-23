@@ -22,7 +22,7 @@ El proyecto **LinkDirectory** es el proyecto final que he construido durante mi 
   - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Prácticas 2º curso del CFGS DAM)
     
 ---
-El repositorio de ProyectosIA es el repositorio en el que listo todos los proyectos que he ido generando con Vibecoding + IA durante mi formación en ello y después del curso. 
+El repositorio de ProyectosIA es el repositorio en el que listo todos los proyectos que he ido generando con Vibecoding + IA durante mi formación en ello y después del curso de IA aplicada y generativa del CEEI Guadalajara. 
   
 - **PROYECTOS (VIBECODING + IA)**  
   - [ProyectosIA](https://github.com/SergioR29/ProyectosIA) (Repositorio principal en el que se listan todos los proyectos generados con IA)
