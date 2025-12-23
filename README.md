@@ -1,7 +1,7 @@
 # Sobre mí 👨‍💻
 Desarrollador de software multiplataforma con la capacidad de crear aplicaciones de escritorio y móvil eficientes. Esto ha permitido reducir en un 75% el tiempo de gestión en proyectos del Ayuntamiento de Marchamalo. Con experiencia en el ciclo de vida completo del software, busco oportunidades para aplicar mis habilidades técnicas y metodologías ágiles en nuevos retos. 
 
-Recientemente, he completado un curso en el CEEI Guadalajara que me ha enseñado a usar un gran abanico de herramientas de IA generativa, desarrollar software mediante metodologías de Vibecoding con IA y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
+Recientemente, he completado un curso en el CEEI Guadalajara que me ha enseñado a usar un gran abanico de herramientas de IA generativa y de IA aplicada, desarrollar software mediante metodologías de Vibecoding con IA y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
 
 Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻
 
