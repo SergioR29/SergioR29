@@ -38,6 +38,8 @@ El repositorio de EJERCICIOS_DAM es aquel en el que muestro mis conocimientos y 
   - [Inmobiliaria](https://github.com/SergioR29/Inmobiliaria) (MongoDB y JSON, Java)
   - [ChatUDP](https://github.com/SergioR29/ChatUDP) (java.net y UDP)
     
+---
+    
 ## TURISMO & PLANNING 🏨📝
 
 Este es mi Trabajo de Fin de Grado (TFG) del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto integral que integra funcionalidades de turismo con la planificación personal para optimizar la organización diaria.  
