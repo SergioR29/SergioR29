@@ -13,6 +13,8 @@ Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto *
 El proyecto **LinkDirectory** es el proyecto final que he construido durante mi formación en **Vibecoding + IA**. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
   
 ---
+Aquí están los proyectos reales o en producción que he hecho a lo largo de mi experiencia profesional o fase final de estudios por cuenta propia como por ejemplo el TFG de DAM (TURISMO & PLANNING).  
+
 - **TURISMO & PLANNING**  
   - [AdminTurismo](https://github.com/SergioR29/AdminTurismo)
   - [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop)
