@@ -63,19 +63,38 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
-Durante mis prácticas del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM), colaboré en el desarrollo de esta aplicación de escritorio con 4 personas, diseñada para optimizar las gestiones internas del ayuntamiento de Marchamalo.
+• He colaborado en el desarrollo de un proyecto de escritorio para optimizar y
+digitalizar los procesos de gestión del servicio de RRHH del ayuntamiento ya
+que antes la gestión era más repetitiva, manual y lenta mediante hojas de
+papel y archivos de Excel.
 
-En el marco de esta colaboración, fui el encargado de desarrollar el 30% de las funcionalidades, así como las interfaces de usuario correspondientes a cada funcionalidad que me fue asignada a desarrollar. Para el desarrollo del proyecto completo se han utilizado una serie de metodologías de desarrollo ágil (**Scrum** y **XP**).
+• Hemos sido un equipo de 4 alumnos trabajando en los diferentes ámbitos del
+desarrollo del proyecto de forma centralizada, siguiendo el patrón MVC.
 
-Mi contribución principal y completa se centró en la Generación de Documentos PDF. Fui responsable de construir las plantillas HTML necesarias y de implementar la funcionalidad completa para la automatización de la creación de informes y documentos en formato PDF.
+• He desarrollado los módulos del proyecto correspondientes a la evaluación de
+los empleados, la gestión de competencias y la generación de informes de
+desempeño en PDF, así como el front-end y lógica de datos correspondientes
+a cada módulo.
 
-Uno de mis compañeros de prácticas es el propietario de este proyecto, ya que lo tuvo como TFG de DAM; él se encargó del envío de correos por SMTP y de la exportación de datos a CSV.
+• En todo el proyecto se ha utilizado el lenguaje Python (v3.12) y para desarrollar
+el front-end de los módulos se ha utilizado la librería PySide6 de Qt. Hemos
+utilizado una BD SQLite para la lógica de datos.
+
+• Para la generación de informes en PDF, he utilizado la librería xhtml2pdf. Para
+construir su aspecto visual (plantillas de los informes) he utilizado HTML y
+CSS.
+
+• Hemos implementado el producto final en el portátil del servicio de RRHH.
+
+• Hemos hecho una presentación de nuestro trabajo en el ayuntamiento. El cuál
+ha sido muy destacado en las redes sociales del ayuntamiento, causando gran
+interés en otros ayuntamientos de alrededores.
 
 
 ![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
 
 
-Gracias a este proyecto, se han optimizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.
+Gracias a este proyecto, se han optimizado y digitalizado grandemente las gestiones internas del ayuntamiento, contribuyendo a una mejora significativa en su eficiencia.
 Debido a nuestro gran trabajo hemos salido en las redes sociales del ayuntamiento:  
   
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Logo de Instagram" width="40" height="40">](https://www.instagram.com/p/DKb6KS6M-bp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)&nbsp;&nbsp;
