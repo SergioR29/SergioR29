@@ -69,7 +69,9 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 
 • He desarrollado los módulos del proyecto correspondientes a la evaluación de los empleados, la gestión de competencias y la generación de informes de desempeño en PDF, así como el front-end y lógica de datos correspondientes a cada módulo.
 
-• En todo el proyecto se ha utilizado el lenguaje Python (v3.12) y para desarrollar el front-end de los módulos se ha utilizado la librería PySide6 de Qt. Hemos utilizado una BD SQLite para la lógica de datos.
+• Para crear el back-end de los módulos se ha utilizado el lenguaje Python (v3.12) y una BD SQLite en local para conectar con la lógica de datos. 
+
+• Para construir el front-end de los módulos se ha utilizado la librería PySide6 de Qt.
 
 • Para la generación de informes en PDF, he utilizado la librería xhtml2pdf. Para construir su aspecto visual (plantillas de los informes) he utilizado HTML y CSS.
 
