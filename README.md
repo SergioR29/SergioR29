@@ -1,5 +1,5 @@
 # Sobre mí 👨‍💻
-Desarrollador de software profesional que utiliza diferentes herramientas de IA para acelerar su productividad y construir soluciones eficientes para varias plataformas.  
+Desarrollador de software profesional que utiliza diferentes herramientas de IA para acelerar su productividad y construir soluciones eficientes.  
 
 Recientemente, he completado un curso en el CEEI Guadalajara que me ha enseñado a usar un gran abanico de herramientas de IA generativa y aplicada, desarrollar software mediante metodologías de Vibecoding con IA y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
 
