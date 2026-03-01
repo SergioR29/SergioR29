@@ -77,7 +77,7 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 
 • Hemos implementado el producto final en el portátil del servicio de RRHH.
 
-• Hemos hecho una presentación de nuestro trabajo en el ayuntamiento. El cual ha sido muy destacado en las redes sociales del ayuntamiento, causando gran interés en otros ayuntamientos de alrededores.
+• Hemos hecho una presentación de nuestro trabajo en el ayuntamiento, el cual ha sido muy destacado en las redes sociales del ayuntamiento, causando gran interés en otros ayuntamientos de alrededores.
 
 
 ![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
