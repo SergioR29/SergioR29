@@ -10,7 +10,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
 # Proyectos personales 💼
 Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto **TURISMO & PLANNING** es mi **TFG** del CFGS de Desarrollo de Aplicaciones Multiplataforma (**DAM**) y también menciono otro proyecto relacionado con el ayuntamiento de Marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.  
   
-El proyecto **LinkDirectory** es el proyecto final que he construido durante mi formación en **Vibecoding + IA**. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
+El proyecto **LinkDirectory** es el proyecto final que he construido durante mi formación en **IA**. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
   
 ---
 Aquí están los proyectos reales o en producción que he hecho a lo largo de mi experiencia profesional o fase final de estudios por cuenta propia como por ejemplo el **TFG** de DAM (**TURISMO & PLANNING**) y mis primeras prácticas de FP en el ayuntamiento de Marchamalo como colaborador en el desarrollo del proyecto solicitado allí.  
@@ -24,7 +24,7 @@ Aquí están los proyectos reales o en producción que he hecho a lo largo de mi
   - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Prácticas 2º curso del CFGS DAM)
     
 ---
-El repositorio de ProyectosIA es el repositorio en el que listo todos los proyectos que he ido generando con Vibecoding + IA durante mi formación en ello y después del curso de IA aplicada y generativa del CEEI Guadalajara. 
+El repositorio de ProyectosIA es el repositorio en el que listo todos los proyectos que he ido generando con IA durante mi formación en ello y después del curso de IA aplicada y generativa del CEEI Guadalajara. 
   
 - **PROYECTOS (VIBECODING + IA)**  
   - [ProyectosIA](https://github.com/SergioR29/ProyectosIA) (Repositorio principal en el que se listan todos los proyectos generados con IA)
