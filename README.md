@@ -21,14 +21,15 @@ Aquí están los proyectos reales o en producción que he hecho a lo largo de mi
   - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile)  
     
 - **COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO**  
-  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Prácticas 2º curso del CFGS DAM)
+  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Experiencia como alumno de prácticas del CFGS DAM)
     
 ---
 El repositorio de ProyectosIA es el repositorio en el que listo todos los proyectos que he ido generando con IA durante mi formación en ello y después del curso de IA aplicada y generativa del CEEI Guadalajara. 
   
 - **PROYECTOS_IA**  
   - [ProyectosIA](https://github.com/SergioR29/ProyectosIA) (Repositorio principal en el que se listan todos los proyectos generados con IA)
-  - [LinkDirectory](https://github.com/SergioR29/LinkDirectory) (HTML, CSS, JavaScript y Node.js, todo generado mediante el empleo de la ingeniería de prompts con Antigravity)
+  - [LinkDirectory](https://github.com/SergioR29/LinkDirectory) (Node.js, JSON)
+  - [fruit-web](https://github.com/SergioR29/fruit-web) (Node.js, PostgreSQL, Docker)
     
 ---
 El repositorio de EJERCICIOS_DAM es aquel en el que muestro mis conocimientos y todo lo que he hecho mientras estaba aprendiendo diferentes tecnologías durante mi formación como desarrollador durante y después de mis estudios.  
