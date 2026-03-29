@@ -1,7 +1,7 @@
 # Sobre mí 👨‍💻
 Desarrollador de software profesional que utiliza diferentes herramientas de IA para acelerar su productividad y construir soluciones eficientes para satisfacer diferentes necesidades de negocio y resolver problemas de la empresa.  
 
-Recientemente, he completado un curso en el CEEI Guadalajara que me ha enseñado a usar un gran abanico de herramientas de IA generativa y aplicada, desarrollar software mediante metodologías de Vibecoding e Ingeniería de Prompts con IA y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
+Recientemente, he completado un curso en el CEEI Guadalajara que me ha enseñado a usar un gran abanico de herramientas de IA generativa y aplicada, desarrollar software mediante Spec-Driven Development (SDD) y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
 
 Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻
 
