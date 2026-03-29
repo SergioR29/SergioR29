@@ -26,7 +26,7 @@ Aquí están los proyectos reales o en producción que he hecho a lo largo de mi
 ---
 El repositorio de ProyectosIA es el repositorio en el que listo todos los proyectos que he ido generando con IA durante mi formación en ello y después del curso de IA aplicada y generativa del CEEI Guadalajara. 
   
-- **PROYECTOS (VIBECODING + IA)**  
+- **PROYECTOS_IA**  
   - [ProyectosIA](https://github.com/SergioR29/ProyectosIA) (Repositorio principal en el que se listan todos los proyectos generados con IA)
   - [LinkDirectory](https://github.com/SergioR29/LinkDirectory) (HTML, CSS, JavaScript y Node.js, todo generado mediante el empleo de la ingeniería de prompts con Antigravity)
     
