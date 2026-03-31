@@ -8,7 +8,7 @@ Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrol
 También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀
 
 # Proyectos personales 💼
-Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto **TURISMO & PLANNING** es mi **TFG** del CFGS de Desarrollo de Aplicaciones Multiplataforma (**DAM**) y también menciono otro proyecto relacionado con el ayuntamiento de Marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.  
+Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto **TURISMO & PLANNING** es mi TFG del CFGS de Desarrollo de Aplicaciones Multiplataforma (**DAM**) y también menciono otro proyecto relacionado con el ayuntamiento de Marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.  
   
 El proyecto **LinkDirectory** es el proyecto final que he construido durante mi formación en **IA**. Más información de cada proyecto en los repositorios correspondientes de cada proyecto.     
   
@@ -45,9 +45,9 @@ El repositorio de EJERCICIOS_DAM es aquel en el que muestro mis conocimientos y 
     
 ## TURISMO & PLANNING 🏨📝
 
-Este es mi Trabajo de Fin de Grado (TFG) del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto integral que integra funcionalidades de turismo con la planificación personal para optimizar la organización diaria.  
+Este es mi Trabajo de Fin de Grado (TFG) del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto que tiene el objetivo de simplificar los pasos necesarios para el uso de las funcionalidades destacadas aquí abajo de una forma mucho más sencilla y rápida.
 
-Esta aplicación es ideal para turistas y residentes de la provincia de Guadalajara (Castilla-La Mancha, España), permite organizar el día a día con gran detalle. Se ha seguido la metodología de desarrollo **_RUP_** a la hora de trabajar en todo el proyecto.  
+Esta aplicación es ideal para turistas y residentes de la provincia de Guadalajara (Castilla-La Mancha, España), Se ha seguido la metodología de desarrollo **_RUP_** a la hora de trabajar en todo el proyecto.  
 
 ![Icono oficial app](https://github.com/user-attachments/assets/60a4ddd1-84e4-4c03-bf8c-2303d1b4754f)
 
