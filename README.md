@@ -8,14 +8,18 @@ Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrol
 También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀
 
 # Habilidades Técnicas 💻
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
+    <p><strong>Desktop</strong></p>
     <img src="https://skillicons.dev/icons?i=py,qt,vscode" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle,eclipse,maven" />
-    <br/>
+    <br/><br/>
+    <p><strong>Android</strong></p>
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle" />
+    <br/><br/>
+    <p><strong>Databases</strong></p>
     <img src="https://skillicons.dev/icons?i=sqlite" />
     <br/>
+    <p><strong>Tools</strong></p>
     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
