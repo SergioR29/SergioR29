@@ -7,6 +7,9 @@ Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrol
 
 También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀
 
+<a href="mailto:romerotejedorsergio@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 <a href="https://linkedin.com/in/srt5" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
