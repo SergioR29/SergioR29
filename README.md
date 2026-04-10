@@ -14,8 +14,12 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
 <a href="https://linkedin.com/in/srt5" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<img src="https://github.com/xandemon/developer-icons/blob/main/icons/oracle.svg" style="width:40px;height:40px;"/>
-<img src="https://github.com/xandemon/developer-icons/blob/main/icons/mongodb.svg" style="width:40px;height:40px;"/>
+<a>
+  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/oracle.svg" style="width:40px;height:40px;"/>
+</a>
+<a>
+  <img src="https://github.com/xandemon/developer-icons/blob/main/icons/mongodb.svg" style="width:40px;height:40px;"/>
+</a>
 
 # Habilidades Técnicas 💻
 <p align="center">
