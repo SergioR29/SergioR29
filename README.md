@@ -28,10 +28,10 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
     <a href="none">
       <img src="https://skillicons.dev/icons?i=sqlite" />
     </a>
-    <a href="https://linkedin.com/in/srt5">
+    <a>
       <img src="https://github.com/xandemon/developer-icons/blob/main/icons/oracle.svg" style="width:40px;height:40px;"/>
     </a>
-    <a href="https://linkedin.com/in/srt5">
+    <a>
       <img src="https://github.com/xandemon/developer-icons/blob/main/icons/mongodb.svg" style="width:40px;height:40px;"/>
     </a>
     <p><strong>Tools</strong></p>
