@@ -8,7 +8,7 @@ Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrol
 También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀
 
 # Habilidades Técnicas 💻
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,qt,vscode" />
     <br/>
