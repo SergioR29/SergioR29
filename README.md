@@ -1,11 +1,11 @@
 # Sobre mí 👨‍💻
-<p>Desarrollador de software profesional que aplica la IA en su flujo de trabajo para acelerar su productividad y construir soluciones eficientes que resuelven problemas de negocio reales.  
+Desarrollador de software profesional que aplica la IA en su flujo de trabajo para acelerar su productividad y construir soluciones eficientes que resuelven problemas de negocio reales.  
 
 Recientemente, he completado un curso en el CEEI Guadalajara y otro de BIG School que me han enseñado a usar un gran abanico de herramientas de IA generativa y aplicada, desarrollar software mediante Spec-Driven Development (SDD) mucho más allá del vibecoding y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
 
 Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻
 
-También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀</p>
+También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀
 
 <a href="mailto:romerotejedorsergio@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
