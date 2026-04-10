@@ -26,6 +26,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express" />
     <p><strong>Databases</strong></p>
     <img src="https://skillicons.dev/icons?i=sqlite" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
     <p><strong>Tools</strong></p>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,eclipse,docker,linux" />
   </a>
