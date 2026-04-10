@@ -5,8 +5,8 @@ Recientemente, he completado un curso en el CEEI Guadalajara y otro de BIG Schoo
 
 Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻
 
-También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀
-
+También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀  
+  
 <a href="mailto:romerotejedorsergio@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
