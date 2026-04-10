@@ -10,7 +10,13 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
 # Habilidades Técnicas 💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,qt,java,sqlite,androidstudio,gradle,eclipse,maven,vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,qt,vscode" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle,eclipse,maven" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=sqlite" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
 </p>
 
