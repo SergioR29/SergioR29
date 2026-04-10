@@ -7,13 +7,15 @@ Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrol
 
 También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀
 
-<a href="mailto:romerotejedorsergio@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<div>
+  <a href="mailto:romerotejedorsergio@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/srt5" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://linkedin.com/in/srt5">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
+</div>
 
 # Habilidades Técnicas 💻
 <p align="center">
