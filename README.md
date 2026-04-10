@@ -26,7 +26,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
     <p><strong>Databases</strong></p>
     <img src="https://skillicons.dev/icons?i=sqlite" />
     <p><strong>Tools</strong></p>
-    <img src="https://skillicons.dev/icons?i=git,github,eclipse" />
+    <img src="https://skillicons.dev/icons?i=git,github,eclipse,docker" />
   </a>
 </p>
 
