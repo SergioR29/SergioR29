@@ -9,7 +9,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
 
 <div>
   <a href="mailto:romerotejedorsergio@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" >
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/srt5">
