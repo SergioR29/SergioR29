@@ -25,7 +25,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
     <p><strong>Web</strong></p>
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express" />
     <p><strong>Databases</strong></p>
-    <table style="border:none;">
+    <table style="border:0px;">
       <tr>
         <td><img src="https://skillicons.dev/icons?i=sqlite" /></td>
         <td><img src="https://github.com/xandemon/developer-icons/blob/main/icons/oracle.svg" style="width:40px;height:40px;"/></td>
