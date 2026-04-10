@@ -14,10 +14,8 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
     <img src="https://skillicons.dev/icons?i=py,qt,vscode" />
     <p><strong>Android</strong></p>
     <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle" />
-    <br/>
     <p><strong>Databases</strong></p>
     <img src="https://skillicons.dev/icons?i=sqlite" />
-    <br/>
     <p><strong>Tools</strong></p>
     <img src="https://skillicons.dev/icons?i=git,github" />
   </a>
