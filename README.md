@@ -34,7 +34,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
       <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;
       <img src="https://skillicons.dev/icons?i=postgres" />&nbsp;
       <img src="https://github.com/xandemon/developer-icons/blob/main/icons/microsoft-sql-server-2.svg" style="width:45px;height:45px;"/>&nbsp;
-    </div><br/>
+    </div>
     <p><strong>Tools</strong></p>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,eclipse,docker,windows,linux" />
   </a>
