@@ -22,7 +22,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
       <img src="https://github.com/xandemon/developer-icons/blob/main/icons/c-sharp.svg" style="width:48px;height:48px;" />&nbsp;
       <img src="https://skillicons.dev/icons?i=dotnet,visualstudio" />
     </div>
-    <p>&nbsp;</p>
+    <br/>
     <p><strong>Android</strong></p>
     <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle" />
     <p><strong>Web</strong></p>
@@ -35,7 +35,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
       <img src="https://skillicons.dev/icons?i=postgres" />&nbsp;
       <img src="https://github.com/xandemon/developer-icons/blob/main/icons/microsoft-sql-server-2.svg" style="width:45px;height:45px;"/>&nbsp;
     </div>
-    <p>&nbsp;</p>
+    <br/>
     <p><strong>Tools</strong></p>
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,eclipse,docker,windows,linux" />
   </a>
