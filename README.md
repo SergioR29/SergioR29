@@ -21,7 +21,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://github.com/xandemon/developer-icons/blob/main/icons/c-sharp.svg" style="width:48px;height:48px;" />&nbsp;
       <img src="https://skillicons.dev/icons?i=dotnet,visualstudio" />
-      <img src=""/>
+      <br/>
     </div>
     <p><strong>Android</strong></p>
     <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle" />
