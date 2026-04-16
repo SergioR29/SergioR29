@@ -19,7 +19,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
     <p><strong>Desktop</strong></p>
     <img src="https://skillicons.dev/icons?i=py,qt,vscode" />
     <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://github.com/xandemon/developer-icons/blob/main/icons/c-sharp.svg" style="width:50px;height:50px;" />&nbsp;
+      <img src="https://github.com/xandemon/developer-icons/blob/main/icons/c-sharp.svg" style="width:45px;height:45px;" />&nbsp;
       <img src="https://skillicons.dev/icons?i=dotnet,visualstudio" />
     </div><br/>
     <p><strong>Android</strong></p>
