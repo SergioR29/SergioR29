@@ -122,7 +122,7 @@ Noticia en las redes sociales del ayuntamiento:
 <div>
   <a href="https://www.instagram.com/p/DKb6KS6M-bp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="width:45px;height:45px;"/></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/AytoMarchamalo/posts/-el-ayuntamiento-y-el-ies-brianda-de-mendoza-colaboran-para-desarrollar-nuevo-so/1148917313932060/" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width:45px;height:45px;"/></a>
-</div>
+</div><br/>
   
 Detallo mucho más mi trabajo realizado como colaborador del proyecto en el repositorio y apartado correspondientes, para verlo haz clic [aquí](https://github.com/SergioR29/AyuntamientoMarchamalo?tab=readme-ov-file#mi-contribuci%C3%B3n-y-responsabilidades).
 <!--
