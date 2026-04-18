@@ -120,7 +120,7 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 Noticia en las redes sociales del ayuntamiento:  
   
 <div>
-  <a href="https://www.instagram.com/p/DKb6KS6M-bp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>&nbsp;
+  <a href="https://www.instagram.com/p/DKb6KS6M-bp/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/AytoMarchamalo/posts/-el-ayuntamiento-y-el-ies-brianda-de-mendoza-colaboran-para-desarrollar-nuevo-so/1148917313932060/" style="text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" style="width:50px;height:50px;"/></a>
 </div>
 
