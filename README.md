@@ -13,7 +13,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
   <a href="https://linkedin.com/in/srt5" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 </div>
 
-# Habilidades Técnicas 💻
+# Habilidades Técnicas 💻📱
 <p align="center">
   <a href="https://linkedin.com/in/srt5">
     <p><strong>Desktop</strong></p>
