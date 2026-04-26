@@ -1,5 +1,5 @@
 # Sobre mí 👨‍💻
-Desarrollador de software profesional que aplica la IA en su flujo de trabajo para acelerar su productividad y construir soluciones eficientes que resuelven problemas de negocio reales.  
+Desarrollador de software junior especializado en el desarrollo de aplicaciones de escritorio con Python y en el desarrollo de aplicaciones para móviles Android con Java. Aplico la IA en mi flujo de trabajo para acelerar mi productividad y construir soluciones eficientes que resuelven problemas de negocio reales.  
 
 Recientemente, he completado un curso en el CEEI Guadalajara y otro de BIG School que me han enseñado a usar un gran abanico de herramientas de IA generativa y aplicada, desarrollar software mediante Spec-Driven Development (SDD) mucho más allá del vibecoding y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
 
