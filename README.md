@@ -1,7 +1,7 @@
 # Sobre mí 👨‍💻
 Desarrollador de software especializado en el desarrollo de aplicaciones de escritorio con Python y en el desarrollo de aplicaciones para móviles Android con Java. Aplico la IA en mi flujo de trabajo para acelerar mi productividad y construir soluciones eficientes que resuelven problemas de negocio reales.  
 
-<img width="1584" height="393" alt="Gemini_Generated_Image_m08aqcm08aqcm08a" src="https://github.com/user-attachments/assets/cf1b916b-d1ba-4f84-9958-b6cdbc07cdd3" />  
+<img width="1584" height="393" alt="Gemini_Generated_Image_m08aqcm08aqcm08a" src="https://github.com/user-attachments/assets/cf1b916b-d1ba-4f84-9958-b6cdbc07cdd3" /><br/>
 
 Recientemente, he completado un curso en el CEEI Guadalajara y otro de BIG School que me han enseñado a usar un gran abanico de herramientas de IA generativa y aplicada, desarrollar software mediante Spec-Driven Development (SDD) mucho más allá del vibecoding y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
 
