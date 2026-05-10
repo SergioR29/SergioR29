@@ -1,5 +1,5 @@
 # Sobre mí 👨‍💻
-Desarrollador de software especializado en el desarrollo de aplicaciones de escritorio con Python y en el desarrollo de aplicaciones para móviles Android con Java. Aplico la IA en mi flujo de trabajo para acelerar mi productividad y construir soluciones eficientes que resuelven problemas de negocio reales.  
+Desarrollador de software especializado en el desarrollo de aplicaciones de escritorio con Python y en el de aplicaciones para móviles Android con Java. Aplico la IA en mi flujo de trabajo para acelerar mi productividad y construir soluciones eficientes que resuelven problemas de negocio reales.  
 
 <p><img width="1584" height="393" alt="Gemini_Generated_Image_m08aqcm08aqcm08a" src="https://github.com/user-attachments/assets/cf1b916b-d1ba-4f84-9958-b6cdbc07cdd3" /></p>
 
