@@ -39,8 +39,8 @@ Aquí están los proyectos reales o en producción que he hecho a lo largo de mi
 
 - **TURISMO & PLANNING**  
   - [AdminTurismo](https://github.com/SergioR29/AdminTurismo)
-  - [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop) (Python, Qt/PySide6, SQLite)  
-  - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile) (Java, Android Studio, SQLite)  
+  - [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop)  
+  - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile)  
     
 - **COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO**  
   - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Experiencia como alumno de prácticas del CFGS DAM)
