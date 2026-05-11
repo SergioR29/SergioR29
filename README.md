@@ -97,6 +97,7 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 • Para construir el front-end de los módulos se ha utilizado la biblioteca PySide6 del framework Qt.
 
 • Para la generación de informes en PDF, he utilizado la librería xhtml2pdf. Para construir su aspecto visual (plantillas de los informes) he utilizado HTML y CSS.
+
 • Hemos implementado el producto final en el portátil del servicio de RRHH.
 
 • Hemos hecho una presentación de nuestro trabajo en el ayuntamiento, el cual ha sido muy destacado en las redes sociales del ayuntamiento, causando gran interés en otros ayuntamientos de alrededores.
