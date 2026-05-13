@@ -29,7 +29,7 @@ También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el 
       <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;
     </div>
     <p><strong>Web</strong></p>
-    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
     <p><strong>Tools</strong></p>
     <img src="https://skillicons.dev/icons?i=git,github,eclipse,windows,linux" />
   </a>
