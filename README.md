@@ -90,7 +90,9 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
 • Co-diseñé y desarrollé una solución informática orientada a optimizar procesos manuales dentro de un software de RRHH en Python con un gran volumen de datos.  
+
 • La implementación permitió reducir en aproximadamente un 50 % el tiempo necesario para realizar gestiones administrativas informatizadas.  
+
 • Debido a su éxito y aceptación por parte de los usuarios, la aplicación fue desplegada inmediatamente y continúa actualmente en producción en el ayuntamiento.  
 
 • Esta experiencia reforzó mi enfoque en el desarrollo centrado en el usuario, priorizando la usabilidad y la creación de interfaces intuitivas con PySide6 y Qt Designer.
