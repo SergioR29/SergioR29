@@ -89,20 +89,11 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
-• Como alumno de prácticas he colaborado en el desarrollo de un proyecto de escritorio en local para optimizar y digitalizar los procesos de gestión del servicio de RRHH del ayuntamiento ya que antes la gestión era más repetitiva, manual y lenta mediante hojas de papel y archivos de Excel.
+• Co-diseñé y desarrollé una solución informática orientada a optimizar procesos manuales dentro de un software de RRHH en Python con un gran volumen de datos.  
+• La implementación permitió reducir en aproximadamente un 50 % el tiempo necesario para realizar gestiones administrativas informatizadas.  
+• Debido a su éxito y aceptación por parte de los usuarios, la aplicación fue desplegada inmediatamente y continúa actualmente en producción en el ayuntamiento.  
 
-•	Hemos sido un equipo de 4 alumnos trabajando en los diferentes ámbitos del desarrollo del proyecto de forma centralizada, siguiendo una metodología ágil basada en prototipado evolutivo con prácticas de XP y aplicando la arquitectura MVC en la construcción del proyecto. 
-
-• He desarrollado los módulos del proyecto correspondientes a la evaluación de los empleados, la gestión de competencias y la generación de informes de desempeño en PDF, así como el front-end y back-end correspondientes a cada módulo.
-
-• Para crear el back-end de los módulos se ha utilizado el lenguaje Python (v3.12) y una BD SQLite en local para conectar con la lógica de datos.  
-• Para construir el front-end de los módulos se ha utilizado la biblioteca PySide6 del framework Qt.
-
-• Para la generación de informes en PDF, he utilizado la librería xhtml2pdf. Para construir su aspecto visual (plantillas de los informes) he utilizado HTML y CSS.
-
-• Hemos implementado el producto final en el portátil del servicio de RRHH.
-
-• Hemos hecho una presentación de nuestro trabajo en el ayuntamiento, el cual ha sido muy destacado en las redes sociales del ayuntamiento, causando gran interés en otros ayuntamientos de alrededores.
+• Esta experiencia reforzó mi enfoque en el desarrollo centrado en el usuario, priorizando la usabilidad y la creación de interfaces intuitivas con PySide6 y Qt Designer.
 
 
 ![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
