@@ -1,5 +1,5 @@
 # Sobre mí 👨‍💻
-Desarrollador de software especializado en el desarrollo de aplicaciones móviles para Android con Java. Enfocado en crear soluciones eficientes y mantenibles, integrando herramientas de IA para agilizar el desarrollo y mejorar la productividad.  
+Desarrollador de software especializado en el desarrollo de aplicaciones móviles para Android con Java y MVVM. Enfocado en crear soluciones eficientes y mantenibles, integrando herramientas de IA para agilizar el desarrollo y mejorar la productividad.  
 
 <p><img width="1584" height="393" alt="Gemini_Generated_Image_m08aqcm08aqcm08a" src="https://github.com/user-attachments/assets/cf1b916b-d1ba-4f84-9958-b6cdbc07cdd3" /></p>
 
