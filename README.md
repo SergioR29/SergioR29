@@ -5,6 +5,10 @@ Desarrollador de software especializado en el desarrollo de aplicaciones móvile
 
 Recientemente, he completado un curso en el CEEI Guadalajara y otro de BIG School que me han enseñado a usar un gran abanico de herramientas de IA generativa y aplicada, desarrollar software mediante Spec-Driven Development (SDD) mucho más allá del vibecoding y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
 
+/*Antes he completado 2 cursos (uno del CEEI Guadalajara en diciembre de 2025 y otro de BIG School de marzo de 2026) que me han ayudado a iniciarme en el mundo del desarrollo con IA (vibecoding y spec-driven development, agentes de IA y automatización de flujos de trabajo con n8n). También me presenté a una oposición de Técnico Auxiliar de Informática (TAI) en el Ayuntamiento de Guadalajara en la que me quedé en bolsa aprobando el primer examen.  
+
+Pero ahora estoy haciendo algo mucho mejor, que es estudiar el curso de especialización de IA y Big Data en el IES Archipreste de Hita. Esto me está ayudando mucho más que antes a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻*/
+
 Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻
 
 También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀
