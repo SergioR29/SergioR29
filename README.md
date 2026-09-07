@@ -7,7 +7,7 @@ Recientemente, he completado un curso en el CEEI Guadalajara y otro de BIG Schoo
 
 <!--Antes he completado 2 cursos (uno del CEEI Guadalajara en diciembre de 2025 y otro de BIG School de marzo de 2026) que me han ayudado a iniciarme en el mundo del desarrollo con IA (vibecoding y spec-driven development, agentes de IA y automatización de flujos de trabajo con n8n). También me presenté a una oposición de Técnico Auxiliar de Informática (TAI) en el Ayuntamiento de Guadalajara en la que me quedé en bolsa aprobando el primer examen.  
 
-Pero ahora estoy haciendo algo mucho mejor, que es estudiar el curso de especialización de IA y Big Data en el IES Archipreste de Hita. Esto me está ayudando mucho más que antes a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻-->
+Pero ahora estoy haciendo algo mucho mejor, que es estudiar el curso de especialización de IA y Big Data en el IES Arcipreste de Hita. Esto me está ayudando mucho más que antes a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻-->
 
 Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻
 
