@@ -9,7 +9,7 @@ Recientemente, he completado un curso en el CEEI Guadalajara y otro de BIG Schoo
 
 También me presenté a una oposición de Técnico Auxiliar de Informática (TAI) en el Ayuntamiento de Guadalajara en la que me quedé en bolsa aprobando el primer examen y fui por primera vez al evento ECOINNTECH BUSINESS AWARDS de 2025 del CEEI Guadalajara en el que pude disfrutar de las presentaciones de diferentes proyectos y establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀  
 
-Pero ahora estoy haciendo algo mucho mejor, que es especializarme en IA y Big Data mediante un curso de especialización en el IES Arcipreste de Hita. Esto me va a ayudar mucho más que antes a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (CFGS DAM) en el IES Brianda de Mendoza. 💻-->
+Pero ahora (he decidido hacer) estoy haciendo algo mucho mejor: Especializarme en IA y Big Data mediante un curso de especialización en el IES Arcipreste de Hita. Esto me va a ayudar mucho más que antes a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (CFGS DAM) en el IES Brianda de Mendoza. 💻-->
 
 Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻
 
