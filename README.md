@@ -5,11 +5,11 @@ Desarrollador de software especializado en el desarrollo de aplicaciones móvile
 
 Recientemente, he completado un curso en el CEEI Guadalajara y otro de BIG School que me han enseñado a usar un gran abanico de herramientas de IA generativa y aplicada, desarrollar software mediante Spec-Driven Development (SDD) mucho más allá del vibecoding y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
 
-<!--Antes he completado 2 cursos (uno del CEEI Guadalajara en diciembre de 2025 y otro de BIG School de marzo de 2026) que me han ayudado a iniciarme en el mundo del desarrollo con IA (vibecoding y spec-driven development, agentes de IA y automatización de flujos de trabajo con n8n) para adaptarme a los tiempos actuales del desarrollo de software.  
+<!--Antes he completado un curso del CEEI Guadalajara y otro de BIG School que me han ayudado a iniciarme en el mundo del desarrollo con IA (vibecoding y spec-driven development, agentes de IA y automatización de flujos de trabajo con n8n) para adaptarme a los tiempos actuales del desarrollo de software.  
 
-También me presenté a una oposición de Técnico Auxiliar de Informática (TAI) en el Ayuntamiento de Guadalajara en la que me quedé en bolsa aprobando el primer examen y fui por primera vez al evento ECOINNTECH BUSINESS AWARDS de 2025 en el CEEI Guadalajara en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀  
+También me presenté a una oposición de Técnico Auxiliar de Informática (TAI) en el Ayuntamiento de Guadalajara en la que me quedé en bolsa aprobando el primer examen y fui por primera vez al evento ECOINNTECH BUSINESS AWARDS de 2025 del CEEI Guadalajara en el que pude disfrutar de las presentaciones de diferentes proyectos y establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀  
 
-Pero ahora estoy haciendo algo mucho mejor, que es especializarme en IA y Big Data mediante un curso de especialización en el IES Arcipreste de Hita. Esto me está ayudando mucho más que antes a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻-->
+Pero ahora estoy haciendo algo mucho mejor, que es especializarme en IA y Big Data mediante un curso de especialización en el IES Arcipreste de Hita. Esto me va a ayudar mucho más que antes a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (CFGS DAM) en el IES Brianda de Mendoza. 💻-->
 
 Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻
 
