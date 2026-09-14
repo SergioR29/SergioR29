@@ -75,9 +75,7 @@ El repositorio de EJERCICIOS_DAM es aquel en el que muestro mis conocimientos y 
     
 ## TURISMO & PLANNING 🏨📝
 
-Este es mi Trabajo de Fin de Grado (TFG) del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto que tiene el objetivo de simplificar los pasos necesarios para el uso de las funcionalidades destacadas aquí abajo de una forma mucho más sencilla y rápida.
-
-Esta aplicación es ideal para turistas y residentes de la provincia de Guadalajara (Castilla-La Mancha, España), Se ha seguido la metodología de desarrollo **RUP** a la hora de trabajar en todo el proyecto.  
+Este es mi Trabajo de Fin de Grado (TFG) del CFGS de Desarrollo de Aplicaciones Multiplataforma (DAM), un proyecto con enfoque turístico en los usuarios de la provincia española de Guadalajara que les permite en una sola aplicación gestionar información de la zona (y alrededores) y de asuntos personales del usuario.  
 
 ![Icono oficial app](https://github.com/user-attachments/assets/60a4ddd1-84e4-4c03-bf8c-2303d1b4754f)
 
