@@ -3,17 +3,11 @@ Desarrollador de software especializado en el desarrollo de aplicaciones móvile
 
 <p><img width="1584" height="393" alt="Gemini_Generated_Image_m08aqcm08aqcm08a" src="https://github.com/user-attachments/assets/cf1b916b-d1ba-4f84-9958-b6cdbc07cdd3" /></p>
 
-Recientemente, he completado un curso en el CEEI Guadalajara y otro de BIG School que me han enseñado a usar un gran abanico de herramientas de IA generativa y aplicada, desarrollar software mediante Spec-Driven Development (SDD) mucho más allá del vibecoding y automatizar procesos mediante agentes de IA modernos y flujos de trabajo (workflows). 🤖
-
-<!--Antes he completado un curso del CEEI Guadalajara y otro de BIG School que me han ayudado a iniciarme en el mundo del desarrollo con IA (vibecoding y spec-driven development, agentes de IA y automatización de flujos de trabajo con n8n) para adaptarme a los tiempos actuales del desarrollo de software.  
+Antes he completado un curso del CEEI Guadalajara y otro de BIG School que me han ayudado a iniciarme en el mundo del desarrollo con IA para adaptarme a los nuevos tiempos del desarrollo de software.  
 
 También me presenté a una oposición de Técnico Auxiliar de Informática (TAI) en el Ayuntamiento de Guadalajara en la que me quedé en bolsa aprobando el primer examen y fui por primera vez al evento ECOINNTECH BUSINESS AWARDS de 2025 del CEEI Guadalajara en el que pude disfrutar de las presentaciones de diferentes proyectos y establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀  
 
-Pero ahora (he decidido hacer) estoy haciendo algo mucho mejor: Especializarme en IA y Big Data mediante un curso de especialización en el IES Arcipreste de Hita. Esto me va a ayudar mucho más que antes a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (CFGS DAM) en el IES Brianda de Mendoza. 💻-->
-
-Esto me ha ayudado enormemente a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (DAM) en el IES Brianda de Mendoza. 💻
-
-También, asistí recientemente al evento ECOINNTECH BUSINESS AWARDS 2025 en el CEEI Guadalajara (fue mi primera vez) en el que pude disfrutar de las presentaciones de diferentes proyectos y de establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀
+Pero ahora he decidido hacer algo mucho mejor: Especializarme en IA y Big Data mediante un curso de especialización en el IES Arcipreste de Hita. Esto me va a ayudar mucho más que antes a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (CFGS DAM) en el IES Brianda de Mendoza. 💻
 
 <div>
   <a href="mailto:romerotejedorsergio@gmail.com" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
