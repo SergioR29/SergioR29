@@ -7,7 +7,7 @@ Antes he completado un curso del CEEI Guadalajara y otro de BIG School que me ha
 
 También me presenté a una oposición de Técnico Auxiliar de Informática (TAI) en el Ayuntamiento de Guadalajara en la que me quedé en bolsa aprobando el primer examen y fui por primera vez al evento ECOINNTECH BUSINESS AWARDS de 2025 del CEEI Guadalajara en el que pude disfrutar de las presentaciones de diferentes proyectos y establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀  
 
-Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data** mediante un curso de especialización en el IES Arcipreste de Hita y mejorar mi nivel de **Inglés** en la EOI Guadalajara (**Escuela Oficial de Idiomas**). Esto me va a ayudar mucho más que antes a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (CFGS DAM) en el IES Brianda de Mendoza. 💻
+Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data** mediante un curso de especialización en el IES Arcipreste de Hita y mejorar mi nivel de **Inglés** en la EOI Guadalajara (**Escuela Oficial de Idiomas**). Esto me va a ayudar mucho más que antes a complementar el enfoque tradicional de desarrollo de software aprendido en la FP de Desarrollo de Aplicaciones Multiplataforma (CFGS DAM) en el IES Brianda de Mendoza y mi nivel de inglés técnico. 💻
 
 <div>
   <a href="mailto:romerotejedorsergio@gmail.com" style="text-decoration: none;"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
