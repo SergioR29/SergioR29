@@ -1,5 +1,7 @@
 # Sobre mí 👨‍💻
-Desarrollador de software especializado en el desarrollo de aplicaciones móviles para Android con Java y MVVM, y en el desarrollo de aplicaciones de escritorio con Python y PySide6. Enfocado en crear soluciones eficientes y mantenibles, integrando herramientas de IA para agilizar el desarrollo y mejorar la productividad.  
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con 3 meses de experiencia profesional en el Ayuntamiento de Marchamalo en los que el desarrollo y la puesta del producto final en producción permitió reducir en un 50 % el tiempo de realización de gestiones administrativas informatizadas del personal de RRHH.  
+
+Mi principal especialización es el desarrollo de aplicaciones Android con Java y MVVM. Mi especialización secundaria es el desarrollo de aplicaciones de escritorio para Windows y Linux con Python y PySide6 (Qt). Además, aplico el uso estratégico de herramientas de IA para acelerar el desarrollo de software garantizando siempre la calidad del producto y utilizándola como un recurso activo para asimilar y comprender nuevas lógicas de código.  
 
 <p><img width="1584" height="393" alt="Gemini_Generated_Image_m08aqcm08aqcm08a" src="https://github.com/user-attachments/assets/cf1b916b-d1ba-4f84-9958-b6cdbc07cdd3" /></p>
 
