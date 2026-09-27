@@ -47,7 +47,7 @@ Aquí están los proyectos reales o en producción que he hecho a lo largo de mi
   - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile)  
     
 - **COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO**  
-  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Experiencia como alumno de prácticas del CFGS DAM)
+  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Experiencia de 3 meses como desarrollador de software en prácticas del CFGS DAM)
     
 ---
 El repositorio de ProyectosIA es el repositorio en el que listo todos los proyectos que he ido generando con IA durante mi formación en ello y después del curso de IA aplicada y generativa del CEEI Guadalajara. 
