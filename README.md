@@ -98,7 +98,8 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 • Esta experiencia reforzó mi enfoque en el desarrollo centrado en el usuario, priorizando la usabilidad y la creación de interfaces intuitivas con PySide6 y Qt Designer.
 
 
-![icono]("https://github.com/user-attachments/assets/5a8f36b9-a104-4100-b9ee-87b9f364eea0")
+<img width="2480" height="2028" alt="escudo_ayuntamiento_marchamalo" src="https://github.com/user-attachments/assets/155fff44-a48c-4a8d-8cef-2a7df3180700" />
+
 
 
 
