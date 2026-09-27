@@ -1,6 +1,8 @@
 # Sobre mí 👨‍💻
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con 3 meses de experiencia profesional en el Ayuntamiento de Marchamalo en los que el desarrollo y la puesta del producto final en producción permitió reducir en un 50 % el tiempo de realización de gestiones administrativas informatizadas del personal de RRHH.  
 
+Además, en mi TFG (Trabajo de Fin de Grado) de DAM he desarrollado el proyecto TURISMO & PLANNING, un proyecto que tiene enfoque turístico en los usuarios de la provincia española de Guadalajara que les permite en una sola aplicación gestionar información de la zona (y alrededores) y de asuntos personales del usuario como la planificación de viajes. En Android está disponible como "TurismoPlanning-Mobile" y en Windows como "TurismoPlanning-Desktop" en GitHub.  
+
 Mi principal especialización es el desarrollo de aplicaciones Android con Java y MVVM. Mi especialización secundaria es el desarrollo de aplicaciones de escritorio para Windows y Linux con Python y PySide6 (Qt). Además, aplico el uso estratégico de herramientas de IA para acelerar el desarrollo de software garantizando siempre la calidad del producto y utilizándola como un recurso activo para asimilar y comprender nuevas lógicas de código.  
 
 <p><img width="1584" height="393" alt="Gemini_Generated_Image_m08aqcm08aqcm08a" src="https://github.com/user-attachments/assets/cf1b916b-d1ba-4f84-9958-b6cdbc07cdd3" /></p>
