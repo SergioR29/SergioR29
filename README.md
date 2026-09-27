@@ -98,7 +98,7 @@ Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo
 • Esta experiencia reforzó mi enfoque en el desarrollo centrado en el usuario, priorizando la usabilidad y la creación de interfaces intuitivas con PySide6 y Qt Designer.
 
 
-![icono](https://github.com/user-attachments/assets/155fff44-a48c-4a8d-8cef-2a7df3180700)
+![icono](https://github.com/user-attachments/assets/bbb46556-8048-4ffd-82fa-56f60876f87c)
 
 
 Noticia en las redes sociales del ayuntamiento:  
