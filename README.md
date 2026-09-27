@@ -7,7 +7,7 @@ Mi principal especialización es el desarrollo de aplicaciones Android con Java 
 
 <p><img width="1584" height="393" alt="Gemini_Generated_Image_m08aqcm08aqcm08a" src="https://github.com/user-attachments/assets/cf1b916b-d1ba-4f84-9958-b6cdbc07cdd3" /></p>
 
-Antes he completado un curso del CEEI Guadalajara y otro de BIG School que me han ayudado a iniciarme en el mundo del desarrollo con IA para adaptarme a los nuevos tiempos del desarrollo de software.  
+Antes, he completado un curso del CEEI Guadalajara y otro de BIG School que me han ayudado a iniciarme en el mundo del desarrollo con IA para adaptarme a los nuevos tiempos del desarrollo de software.  
 
 También me presenté a una oposición de Técnico Auxiliar de Informática (TAI) en el Ayuntamiento de Guadalajara en la que me quedé en bolsa aprobando el primer examen y fui por primera vez al evento ECOINNTECH BUSINESS AWARDS de 2025 del CEEI Guadalajara en el que pude disfrutar de las presentaciones de diferentes proyectos y establecer conexiones fructíferas de networking con diferentes empresas y autónomos. 🤝🚀  
 
