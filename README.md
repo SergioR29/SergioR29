@@ -1,5 +1,3 @@
-<img width="2480" height="2028" alt="escudo_ayuntamiento_marchamalo" src="https://github.com/user-attachments/assets/d829f819-2eba-4e9b-8d83-5173709ee807" />
-<img width="2480" height="2028" alt="escudo_ayuntamiento_marchamalo" src="https://github.com/user-attachments/assets/7aad93f6-e693-49b9-8ab3-b567bca20059" />
 # Sobre mí 👨‍💻
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con 3 meses de experiencia profesional en el Ayuntamiento de Marchamalo en los que el desarrollo y la puesta del producto final en producción permitió reducir en un 50 % el tiempo de realización de gestiones administrativas informatizadas del personal de RRHH.  
 
