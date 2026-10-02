@@ -85,7 +85,8 @@ Funcionalidades destacadas:
 - **Temas Personalizables**: Opciones de visualización (Claro, Oscuro o Predeterminado por el Sistema) para una experiencia de usuario cómoda. Sólo disponible en la versión móvil.
 
 Hay 2 versiones oficiales para el usuario: Windows ([**_TurismoPlanning-Desktop_**](https://github.com/SergioR29/TurismoPlanning-Desktop)) y Android ([**_TurismoPlanning-Mobile_**](https://github.com/SergioR29/TurismoPlanning-Mobile)).  
-Hay una app auxiliar para manejar la parte turística: Windows ([**_AdminTurismo_**](https://github.com/SergioR29/AdminTurismo)).
+  
+Hay una app auxiliar para meter los datos de los sitios con sus respectivas ciudades a las bases de datos de cada versión oficial del proyecto: Windows ([**_AdminTurismo_**](https://github.com/SergioR29/AdminTurismo)).
 
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
