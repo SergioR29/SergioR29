@@ -1,7 +1,7 @@
 # Sobre mí 👨‍💻
 Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con 3 meses de experiencia profesional en el Ayuntamiento de Marchamalo en los que el desarrollo de un sistema de gestión de RRHH y su puesta en producción permitió reducir en un 50 % el tiempo de gestión administrativa.  
 
-Además, en mi TFG (Trabajo de Fin de Grado) de DAM he desarrollado el proyecto TURISMO & PLANNING, un proyecto que tiene enfoque turístico en los usuarios de la provincia española de Guadalajara que les permite en una sola aplicación gestionar información de la zona (y alrededores) y de asuntos personales del usuario como la planificación de viajes. En Android está disponible como "TurismoPlanning-Mobile" y en Windows como "TurismoPlanning-Desktop" en GitHub.  
+Además, en mi TFG (Trabajo de Fin de Grado) del CFGS DAM he desarrollado el proyecto TURISMO & PLANNING, un proyecto que tiene enfoque turístico en los usuarios de la provincia española de Guadalajara que les permite en una sola aplicación gestionar información de la zona (y alrededores) y de asuntos personales del usuario como la planificación de viajes. En Android está disponible como "TurismoPlanning-Mobile" y en Windows como "TurismoPlanning-Desktop" en GitHub.  
 
 Mi principal especialización es el desarrollo de aplicaciones Android con Java y MVVM. Mi especialización secundaria es el desarrollo de aplicaciones de escritorio para Windows y Linux con Python y PySide6 (Qt). Además, aplico el uso estratégico de herramientas de IA para acelerar el desarrollo de software garantizando siempre la calidad del producto y utilizándola como un recurso activo para asimilar y comprender nuevas lógicas de código.  
 
@@ -36,10 +36,7 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
 </p>
 
 # Proyectos personales 💼
-Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto **TURISMO & PLANNING** es mi TFG del CFGS de Desarrollo de Aplicaciones Multiplataforma (**DAM**) y también menciono otro proyecto relacionado con el ayuntamiento de Marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.  
-  
----
-Aquí están los proyectos reales o en producción que he hecho a lo largo de mi experiencia profesional o fase final de estudios por cuenta propia como por ejemplo el **TFG** de DAM (**TURISMO & PLANNING**) y mis primeras prácticas de FP en el ayuntamiento de Marchamalo como colaborador en el desarrollo del proyecto solicitado allí.  
+Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto **TURISMO & PLANNING** es mi TFG del CFGS de Desarrollo de Aplicaciones Multiplataforma (**DAM**) y también menciono otro proyecto relacionado con el ayuntamiento de Marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.
 
 - **TURISMO & PLANNING**  
   - [AdminTurismo](https://github.com/SergioR29/AdminTurismo)
