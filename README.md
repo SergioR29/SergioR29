@@ -55,7 +55,7 @@ El repositorio de ProyectosIA es el repositorio en el que listo todos los proyec
   - [fruit-web](https://github.com/SergioR29/fruit-web) (Node.js, PostgreSQL, Docker)
     
 ---
-El repositorio de EJERCICIOS_DAM es aquel en el que muestro mis conocimientos y todo lo que he hecho mientras estaba aprendiendo diferentes tecnologías durante mi formación como desarrollador durante y después de mis estudios.  
+El repositorio de EJERCICIOS_DAM es aquel en el que muestro mis conocimientos y todo lo que he hecho mientras estaba aprendiendo diferentes tecnologías durante mi formación como desarrollador en el CFGS DAM.  
   
 - **EJERCICIOS_DAM**  
   - [Ejercicios_DAM](https://github.com/SergioR29/Ejercicios_DAM) (Repositorio principal en el que se listan todos los proyectos realizados durante mi formación en el CFGS DAM)
