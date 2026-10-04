@@ -1,5 +1,5 @@
 # Sobre mí 👨‍💻
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con 3 meses de experiencia profesional en el Ayuntamiento de Marchamalo en los que el desarrollo de un sistema de gestión de RRHH y su puesta en producción permitió reducir en un 50 % el tiempo de realización de gestiones administrativas informatizadas del personal de RRHH.  
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con 3 meses de experiencia profesional en el Ayuntamiento de Marchamalo en los que el desarrollo de un sistema de gestión de RRHH y su puesta en producción permitió reducir en un 50 % el tiempo de gestión administrativa.  
 
 Además, en mi TFG (Trabajo de Fin de Grado) de DAM he desarrollado el proyecto TURISMO & PLANNING, un proyecto que tiene enfoque turístico en los usuarios de la provincia española de Guadalajara que les permite en una sola aplicación gestionar información de la zona (y alrededores) y de asuntos personales del usuario como la planificación de viajes. En Android está disponible como "TurismoPlanning-Mobile" y en Windows como "TurismoPlanning-Desktop" en GitHub.  
 
