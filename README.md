@@ -91,7 +91,7 @@ Hay una app auxiliar para meter los datos de los sitios con sus respectivas ciud
 
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
-• Co-diseñé y desarrollé una solución informática orientada a optimizar procesos manuales dentro de un software de RRHH en Python con un gran volumen de datos.  
+• Co-diseñé y desarrollé una solución informática orientada a optimizar procesos manuales dentro de un software de gestión de RRHH en Python con un gran volumen de datos.  
 
 • La implementación permitió reducir en aproximadamente un 50 % el tiempo necesario para realizar gestiones administrativas informatizadas.  
 
