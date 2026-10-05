@@ -86,7 +86,7 @@ Windows ([**_TurismoPlanning-Desktop_**](https://github.com/SergioR29/TurismoPla
   
 Hay una app auxiliar para meter los datos de los sitios con sus respectivas ciudades a las bases de datos de cada versión oficial del proyecto: Windows ([**_AdminTurismo_**](https://github.com/SergioR29/AdminTurismo)).
 
-## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
+## COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
 Desarrollo colaborativo de una solución de escritorio compatible con Windows para optimizar procesos manuales de gestión de información de los empleados destinada al personal de RRHH. Proyecto presentado en redes sociales y producto final puesto en producción actualmente.  
   
