@@ -1,5 +1,5 @@
 # Sobre mí 👨‍💻
-Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con 3 meses de prácticas FCT en el Ayuntamiento de Marchamalo en los que el desarrollo de un sistema de gestión de RRHH y su puesta en producción permitió reducir en un 50 % el tiempo de gestión administrativa.  
+Técnico Superior en Desarrollo de Aplicaciones Multiplataforma con 3 meses de prácticas FCT en el Ayuntamiento de Marchamalo en los que el desarrollo de un sistema de gestión de RRHH y su puesta en producción permitió reducir en un 50 % el tiempo necesario de gestión administrativa.  
 
 Además, en mi TFG (Trabajo de Fin de Grado) del CFGS DAM he desarrollado el proyecto **TURISMO & PLANNING**, un proyecto que tiene enfoque turístico en los usuarios de la provincia española de Guadalajara que les permite en una sola aplicación gestionar información de la zona (y alrededores) y de asuntos personales del usuario como la planificación de viajes. En Android está disponible como "TurismoPlanning-Mobile" y en Windows como "TurismoPlanning-Desktop" en GitHub.  
 
@@ -44,7 +44,7 @@ Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto *
   - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile)  
     
 - **COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO**  
-  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Experiencia de 3 meses como desarrollador de software en prácticas del CFGS DAM)
+  - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Experiencia de 3 meses como desarrollador de software en prácticas FCT del CFGS DAM)
     
 ---
 El repositorio de ProyectosIA es el repositorio en el que listo todos los proyectos que he ido generando con IA durante mi formación en ello y después del curso de IA aplicada y generativa del CEEI Guadalajara. 
