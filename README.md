@@ -92,8 +92,6 @@ Desarrollo colaborativo de una solución de escritorio compatible con Windows pa
   
 <br/>
 <br/>
-<br/>
-<br/>
   
 • Co-diseñé y desarrollé una solución informática orientada a optimizar procesos manuales dentro de un software de gestión de RRHH en Python con un gran volumen de datos.  
 
