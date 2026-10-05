@@ -40,8 +40,8 @@ Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto *
 
 - **TURISMO & PLANNING**  
   - [AdminTurismo](https://github.com/SergioR29/AdminTurismo)
-  - [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop)  (Versión Windows)  
-  - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile)  (Versión Android)  
+  - [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop)      (Versión Windows)  
+  - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile)        (Versión Android)  
     
 - **COLABORACIÓN CON EL AYUNTAMIENTO DE MARCHAMALO**  
   - [AyuntamientoMarchamalo](https://github.com/SergioR29/AyuntamientoMarchamalo) (Experiencia de 3 meses como desarrollador de software en prácticas FCT del CFGS DAM)
