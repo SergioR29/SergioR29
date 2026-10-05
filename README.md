@@ -39,7 +39,7 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
 Cada proyecto personal tiene sus repositorios de GitHub asociados. El proyecto **TURISMO & PLANNING** es mi TFG del CFGS de Desarrollo de Aplicaciones Multiplataforma (**DAM**) y también menciono otro proyecto relacionado con el ayuntamiento de Marchamalo ya que fui colaborador en él en mis prácticas de CFGS DAM.
 
 - **TURISMO & PLANNING**  
-  - [AdminTurismo](https://github.com/SergioR29/AdminTurismo) (Para meter los sitios turísticos a la BD para pasarlos a las apps oficiales)
+  - [AdminTurismo](https://github.com/SergioR29/AdminTurismo)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Para meter los sitios turísticos a la BD para pasarlos a las apps oficiales)
   - [TurismoPlanning-Desktop](https://github.com/SergioR29/TurismoPlanning-Desktop)  &nbsp;&nbsp;&nbsp;(Versión Windows)  
   - [TurismoPlanning-Mobile](https://github.com/SergioR29/TurismoPlanning-Mobile)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Versión Android)  
     
