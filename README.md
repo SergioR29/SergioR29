@@ -88,6 +88,8 @@ Hay una app auxiliar para meter los datos de los sitios con sus respectivas ciud
 
 ## AYUNTAMIENTO DE MARCHAMALO 🏛️🏢
 
+Desarrollo colaborativo de una solución de escritorio compatible con Windows para optimizar procesos manuales de gestión de información de los empleados destinada al personal de RRHH. Proyecto presentado en redes sociales y producto final puesto en producción actualmente.  
+
 • Co-diseñé y desarrollé una solución informática orientada a optimizar procesos manuales dentro de un software de gestión de RRHH en Python con un gran volumen de datos.  
 
 • La implementación permitió reducir en aproximadamente un 50 % el tiempo necesario para realizar gestiones administrativas informatizadas.  
