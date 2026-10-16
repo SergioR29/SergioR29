@@ -28,7 +28,7 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
     <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle" />
     <p><strong>Databases</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://skillicons.dev/icons?i=sqlite" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb" />&nbsp;
     </div>
     <p><strong>Tools</strong></p>
     <img src="https://skillicons.dev/icons?i=git,github,windows,linux" />
