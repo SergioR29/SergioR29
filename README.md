@@ -33,7 +33,7 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
       <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;
     </div>
     <p><strong>Tools</strong></p>
-    <img src="https://skillicons.dev/icons?i=git,github,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,windows,linux,anaconda" />
   </a>
 </p>
 
