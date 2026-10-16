@@ -32,6 +32,8 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
       <img src="https://github.com/xandemon/developer-icons/blob/main/icons/oracle.svg" style="width:40px;height:40px;"/>&nbsp;
       <img src="https://skillicons.dev/icons?i=mongodb" />&nbsp;
     </div>
+    <p><strong>IA & Big Data</strong></p>
+    <img src="https://github.com/xandemon/developer-icons/blob/main/icons/numpy.svg" style="width:40px;height:40px;" />
     <p><strong>Tools</strong></p>
     <img src="https://skillicons.dev/icons?i=git,github,windows,linux,anaconda" />
   </a>
