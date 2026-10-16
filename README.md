@@ -23,11 +23,14 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
 <p align="center">
   <a href="https://linkedin.com/in/srt5">
     <p><strong>Desktop</strong></p>
+    <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=py,qt,vscode" />
-    <img class="pattern-icon" src="assets/img/mvc-icon.svg" alt="MVC" />
+    <img class="pattern-icon" src="https://github.com/user-attachments/assets/e745a735-95aa-433b-8941-bf9e206d8da4" alt="MVC" style="width:40px;height:40px;" /></div>
     <p><strong>Android</strong></p>
+    <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle" />
-    <img class="pattern-icon" src="assets/img/mvvm-icon.svg" alt="MVVM">
+    <img class="pattern-icon" src="assets/img/mvvm-icon.svg" alt="MVVM" style="width:40px;height:40px;" />
+    </div>
     <p><strong>Databases</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://skillicons.dev/icons?i=sqlite,mysql" />&nbsp;
