@@ -25,11 +25,11 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
     <p><strong>Desktop</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=py,qt,vscode" />
-    <img class="pattern-icon" src="https://github.com/user-attachments/assets/e745a735-95aa-433b-8941-bf9e206d8da4" alt="MVC" /></div>
+    <img class="pattern-icon" src="https://github.com/user-attachments/assets/e745a735-95aa-433b-8941-bf9e206d8da4" alt="MVC" style="width:40px;height:40px;" /></div>
     <p><strong>Android</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle" />
-    <img class="pattern-icon" src="https://github.com/user-attachments/assets/1df1cb14-5cdc-438a-aa04-c574ab3353ae" alt="MVVM"/>
+    <img class="pattern-icon" src="https://github.com/user-attachments/assets/1df1cb14-5cdc-438a-aa04-c574ab3353ae" alt="MVVM" style="width:40px;height:40px;" />
     </div>
     <p><strong>Databases</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
