@@ -35,16 +35,11 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
     <p><strong>IA & Big Data</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://github.com/xandemon/developer-icons/blob/main/icons/numpy.svg" style="width:40px;height:40px;" />&nbsp;
-      <img class="pandas-icon" src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg" style="width:40px;height:40px;background:black;" alt="Pandas">&nbsp;
+      <img class="pandas-icon" src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg" style="width:40px;height:40px;background-color:white;" alt="Pandas">&nbsp;
       <img src="https://skillicons.dev/icons?i=r" />&nbsp;
     </div>
     <p><strong>Tools</strong></p>
     <img src="https://skillicons.dev/icons?i=git,github,windows,linux,anaconda" />
-    <p><strong>Patterns</strong></p>
-    <div style="display: flex; align-items: center; gap: 10px;">
-      <img class="pattern-icon" src="https://github.com/user-attachments/assets/e745a735-95aa-433b-8941-bf9e206d8da4" alt="MVC" style="width:96px;height:48px;" />
-      <img class="pattern-icon" src="https://github.com/user-attachments/assets/1df1cb14-5cdc-438a-aa04-c574ab3353ae" alt="MVVM" style="width:96px;height:48px;" />
-    </div>
   </a>
 </p>
 
