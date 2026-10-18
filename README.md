@@ -64,7 +64,7 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
       <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,docker" />&nbsp;
       <img width="48" height="48" alt="vercel-light" src="https://github.com/user-attachments/assets/2248e25d-4421-4aa9-ab44-e25567552b1c" />&nbsp;
       <img width="48" height="48" alt="antigravity_ide" src="https://github.com/user-attachments/assets/bc4a31fa-c1c2-4884-af0e-4c40c8d3e637" />&nbsp;
-      <img width="48" height="48" alt="logo-google-gemini" src="https://github.com/user-attachments/assets/b388d9b0-fbbc-472c-bf3f-da263da99bfd" />&nbsp;
+      <img width="48" height="48" alt="logo-google-gemini" src="https://raw.githubusercontent.com/xandemon/developer-icons/4a10a1bdb1cc799956c089fc897332511d80ad52/icons/gemini.svg" />&nbsp;
       <img width="48" height="48" alt="codex-color" src="https://github.com/user-attachments/assets/757d294d-a3b7-4e22-94ef-bc3dd7253542" />
     </div>
   </a>
