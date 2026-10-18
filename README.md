@@ -35,7 +35,7 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
     <p><strong>IA & Big Data</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://github.com/xandemon/developer-icons/blob/main/icons/numpy.svg" style="width:40px;height:40px;" />&nbsp;
-      <img class="pandas-icon" src="https://github.com/user-attachments/assets/a352a934-5059-47f0-aca7-4080457ddce3" style="width:48px;height:48px;" alt="Pandas">&nbsp;
+      <img class="pandas-icon" src="https://github.com/user-attachments/assets/fe563d3d-a6a9-437f-9e29-7df2d518a818" style="width:48px;height:48px;" alt="Pandas">&nbsp;
         <img class="jupyter-icon" src="https://github.com/user-attachments/assets/37804e8f-2d88-455a-ae1c-e7601df66a22" alt="Jupyter Notebook" style="width:52px;height:58px;object-fit: contain;"/>&nbsp;
       <img src="https://skillicons.dev/icons?i=r" />&nbsp;
     </div>
