@@ -75,6 +75,7 @@ El repositorio de ProyectosIA es el repositorio en el que listo todos los proyec
   - [ProyectosIA](https://github.com/SergioR29/ProyectosIA) (Repositorio principal en el que se listan todos los proyectos generados con IA)
   - [LinkDirectory](https://github.com/SergioR29/LinkDirectory) (Node.js, JSON)
   - [fruit-web](https://github.com/SergioR29/fruit-web) (Node.js, PostgreSQL, Docker)
+  - [portfolio_web](https://github.com/SergioR29/sergior29.github.io): Es mi portfolio web como profesional en el que muestro mis proyectos, habilidades técnicas, experiencia, educación e idiomas. Es decir, mi CV web. Enlace: https://sergior29.github.io/
     
 ---
 El repositorio de EJERCICIOS_DAM es aquel en el que muestro mis conocimientos y todo lo que he hecho mientras estaba aprendiendo diferentes tecnologías durante mi formación como desarrollador en el CFGS DAM.  
