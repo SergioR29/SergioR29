@@ -36,9 +36,9 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://github.com/xandemon/developer-icons/blob/main/icons/numpy.svg" style="width:40px;height:40px;" />&nbsp;
       <img class="pandas-icon" src="https://github.com/user-attachments/assets/fe563d3d-a6a9-437f-9e29-7df2d518a818" style="width:48px;height:48px;" alt="Pandas">&nbsp;
-        <img class="jupyter-icon" src="https://github.com/user-attachments/assets/37804e8f-2d88-455a-ae1c-e7601df66a22" alt="Jupyter Notebook" style="width:52px;height:58px;object-fit: contain;"/>&nbsp;
+        <img class="jupyter-icon" src="https://github.com/user-attachments/assets/37804e8f-2d88-455a-ae1c-e7601df66a22" alt="Jupyter Notebook" style="width:52px;height:60px;object-fit: contain;"/>&nbsp;
       <img src="https://skillicons.dev/icons?i=r" />&nbsp;
-      <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/json.svg" />
+      <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/json.svg" style="width:48px;height:48px;"/>
     </div>
     <p><strong>Tools</strong></p>
     <img src="https://skillicons.dev/icons?i=git,github,windows,linux,anaconda" />
