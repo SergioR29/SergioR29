@@ -50,7 +50,7 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
       <img src="https://skillicons.dev/icons?i=hibernate,postgresql" />&nbsp;
       <img src="https://raw.githubusercontent.com/xandemon/developer-icons/4a10a1bdb1cc799956c089fc897332511d80ad52/icons/c-sharp.svg" style="width:48px;height:48px;" />&nbsp;
       <img src="https://skillicons.dev/icons?i=visualstudio" />&nbsp;
-      <img src="https://raw.githubusercontent.com/xandemon/developer-icons/4a10a1bdb1cc799956c089fc897332511d80ad52/icons/microsoft-sql-server-2.svg" style="width:48px;height:48px;"/>
+      <img src="https://raw.githubusercontent.com/xandemon/developer-icons/4a10a1bdb1cc799956c089fc897332511d80ad52/icons/microsoft-sql-server-2.svg" style="width:48px;height:48px;"/>&nbsp;
       <img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />&nbsp;
     </div>
   </a>
