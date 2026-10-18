@@ -42,6 +42,12 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
     </div>
     <p><strong>Tools</strong></p>
     <img src="https://skillicons.dev/icons?i=git,github,windows,linux,anaconda" />
+    <p><strong>Others</strong></p>
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://skillicons.dev/icons?=eclipse,hibernate" />&nbsp;
+      <img src="https://raw.githubusercontent.com/xandemon/developer-icons/4a10a1bdb1cc799956c089fc897332511d80ad52/icons/c-sharp.svg" />&nbsp;
+      <img src="https://skillicons.dev/icons?=visualstudio" />
+    </div>
   </a>
 </p>
 
