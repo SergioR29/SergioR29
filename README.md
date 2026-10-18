@@ -26,12 +26,12 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://skillicons.dev/icons?i=py,qt,vscode" />&nbsp;
       <img width="48" height="48" alt="mvc-icon" src="https://github.com/user-attachments/assets/ef9f0c7c-9422-4ca5-a1f0-9b0dfab37d83" />
-    </div>
+    </div><br/>
     <p><strong>Android</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle" />&nbsp;
       <img width="48" height="48" alt="mvvm-icon" src="https://github.com/user-attachments/assets/df77e02e-559e-471a-9c72-f38e05ab087f" />
-    </div>
+    </div><br/>
     <p><strong>Databases</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://skillicons.dev/icons?i=sqlite,mysql" />&nbsp;
@@ -46,12 +46,12 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
       <img class="jupyter-icon" src="https://github.com/user-attachments/assets/37804e8f-2d88-455a-ae1c-e7601df66a22" alt="Jupyter Notebook" style="width:52px;height:52px;object-fit: contain;"/>&nbsp;
       <img src="https://skillicons.dev/icons?i=r" />&nbsp;
       <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/json.svg" style="width:48px;height:48px;"/>
-    </div>
+    </div><br/>
     <p><strong>Tools</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://skillicons.dev/icons?i=git,github,windows,linux" />&nbsp;
       <img width="48" height="48" alt="virtualbox" src="https://github.com/user-attachments/assets/fa8db50b-5fbf-4de6-a543-72bdc5838231" />
-    </div>
+    </div><br/>
     <p><strong>Others</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://skillicons.dev/icons?i=eclipse,maven" />&nbsp;
