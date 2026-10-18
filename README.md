@@ -41,7 +41,11 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
       <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/json.svg" style="width:48px;height:48px;"/>
     </div>
     <p><strong>Tools</strong></p>
-    <img src="https://skillicons.dev/icons?i=git,github,windows,linux,anaconda" />
+    <div style="display: flex; align-items: center; gap: 10px;">
+      <img src="https://skillicons.dev/icons?i=git,github,windows,linux" />&nbsp;
+      <img width="48" height="48" alt="virtualbox" src="https://github.com/user-attachments/assets/fa8db50b-5fbf-4de6-a543-72bdc5838231" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=anaconda" />
+    </div>
     <p><strong>Others</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://skillicons.dev/icons?i=eclipse,maven" />&nbsp;
