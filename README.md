@@ -58,6 +58,7 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
       <img width="48" height="48" alt="JUnit" src="https://github.com/user-attachments/assets/60d27cdc-3b2d-4f27-8f8e-3970ca9de4a6" />&nbsp;
       <img width="48" height="48" alt="SQL Developer" src="https://github.com/user-attachments/assets/e84b409b-3ea0-4d66-a002-93267cc54678" />&nbsp;
       <img src="https://skillicons.dev/icons?i=hibernate,postgresql" />&nbsp;
+      <img width="48" height="48" alt="Odoo" src="https://github.com/user-attachments/assets/4181a823-6ddf-4466-8a7c-ad0c68a410bc" />&nbsp;
       <img src="https://raw.githubusercontent.com/xandemon/developer-icons/4a10a1bdb1cc799956c089fc897332511d80ad52/icons/c-sharp.svg" style="width:48px;height:48px;" />&nbsp;
       <img src="https://skillicons.dev/icons?i=visualstudio" />&nbsp;
       <img src="https://raw.githubusercontent.com/xandemon/developer-icons/4a10a1bdb1cc799956c089fc897332511d80ad52/icons/microsoft-sql-server-2.svg" style="width:48px;height:48px;"/>&nbsp;
