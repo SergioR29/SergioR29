@@ -25,7 +25,7 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
     <p><strong>Desktop</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://skillicons.dev/icons?i=py,qt,vscode" />&nbsp;
-      <img width="48" height="48" alt="mvc-icon" src="https://github.com/user-attachments/assets/ef9f0c7c-9422-4ca5-a1f0-9b0dfab37d83" />
+      <img width="50" height="50" alt="mvc-icon" src="https://github.com/user-attachments/assets/ef9f0c7c-9422-4ca5-a1f0-9b0dfab37d83" />
     </div><br/>
     <p><strong>Android</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
