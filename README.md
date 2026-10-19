@@ -29,7 +29,9 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
     </div><br/>
     <p><strong>Android</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://skillicons.dev/icons?i=java,androidstudio,gradle" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=java" />&nbsp;
+      <img width="48" height="48" alt="android-studio-icon_github" src="https://github.com/user-attachments/assets/e7c08f4a-752d-423d-a521-9bdb9e9b9d5e" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=gradle" />&nbsp;
       <img width="48" height="48" alt="mvvm-icon" src="https://github.com/user-attachments/assets/df77e02e-559e-471a-9c72-f38e05ab087f" />
     </div><br/>
     <p><strong>Databases</strong></p>
