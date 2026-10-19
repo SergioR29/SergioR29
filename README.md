@@ -45,7 +45,9 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
       <img src="https://skillicons.dev/icons?i=anaconda" />&nbsp;
       <img class="jupyter-icon" src="https://github.com/user-attachments/assets/37804e8f-2d88-455a-ae1c-e7601df66a22" alt="Jupyter Notebook" style="width:52px;height:52px;object-fit: contain;"/>&nbsp;
       <img src="https://skillicons.dev/icons?i=r" />&nbsp;
-      <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/json.svg" style="width:48px;height:48px;"/>
+      <img src="https://raw.githubusercontent.com/xandemon/developer-icons/main/icons/json.svg" style="width:48px;height:48px;"/>&nbsp;
+      <img width="48" height="48" alt="Matplotlib_icon" src="https://github.com/user-attachments/assets/be7d0dd5-ebc4-433f-91f1-09d0fba90092" />&nbsp;
+      <img width="48" height="48" alt="Scikit_learn_logo_small" src="https://github.com/user-attachments/assets/ba574cd9-e2a5-4a08-bc30-af8db053ec87" />
     </div><br/>
     <p><strong>Tools</strong></p>
     <div style="display: flex; align-items: center; gap: 10px;">
