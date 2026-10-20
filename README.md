@@ -31,7 +31,7 @@ Pero ahora he decidido hacer algo mucho mejor: Especializarme en **IA y Big Data
     <div style="display: flex; align-items: center; gap: 10px;">
       <img src="https://skillicons.dev/icons?i=java" />&nbsp;
       <img width="48" height="48" alt="AndroidStudio" src="https://github.com/user-attachments/assets/f76e1ba5-85f7-47b4-872c-c3dc2403fd77" />&nbsp;
-      <img src="https://skillicons.dev/icons?i=jgradle" />&nbsp;
+      <img src="https://skillicons.dev/icons?i=gradle" />&nbsp;
       <img width="48" height="48" alt="mvvm-icon" src="https://github.com/user-attachments/assets/df77e02e-559e-471a-9c72-f38e05ab087f" />
     </div><br/>
     <p><strong>Databases</strong></p>
